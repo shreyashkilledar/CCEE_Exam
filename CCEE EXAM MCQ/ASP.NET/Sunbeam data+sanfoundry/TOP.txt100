@@ -1,0 +1,1117 @@
+1) C# Basics MCQs
+1. C# is a programming language, developed by ___.
+A. Oracle
+B. Microsoft
+C. GNU project
+D. Google
+Answer: B) Microsoft
+
+
+2. C# runs on the ___.
+A. .NET Framework
+B. Java Virtual Machine
+C. Both A. and B.
+D. None of the above
+Answer: A) .NET Framework
+
+
+
+3. C# programming language is used to develop -
+A. Web apps
+B. Desktop apps
+C. Mobiles apps
+D. All of the above
+Answer: D) All of the above
+
+4. Is C# an object-oriented programming language?
+A. Yes
+B. No
+Answer: A) Yes
+
+5. Is C++ an alias of C#?
+A. Yes
+B. No
+Answer: B) No
+
+6. What is the extension of a C# language file?
+A. .c
+B. .cpp
+C. .cs
+D. .csp
+Answer: C) .cs
+
+7. Who is the founder of C# programming language?
+A. Anders Hejlsberg
+B. Douglas Crockford
+C. Rasmus Lerdorf
+D. Brendan Eich
+Answer: A) Anders Hejlsberg
+
+8. Is C# a type safe programming language?
+A. Yes
+B. No
+Answer: A) Yes
+
+9. Is C# a structured programming language?
+A. Yes
+B. No
+Answer: A) Yes
+
+10. CLR stands for ___.
+A. Common Type System
+B. Common Language Specification
+C. Common Language Runtime
+D. Java Virtual Machine
+Answer: C) Common Language Runtime
+
+11. .Net CLR is equivalent to?
+A. Common Type System
+B. Common Language Specification
+C. Common Language Runtime
+D. Java Virtual Machine
+Answer: D) Java Virtual Machine
+
+12. What is CLR in C#?
+A. It is a virtual machine component of Microsoft .NET Framework
+B. It is a virtual machine component of JVM
+C. It is a compiler to compiler the C# code
+D. All of the above
+Answer: A) It is a virtual machine component of Microsoft .NET Framework
+
+
+13. What does the CLR in C# do?
+A. Manages the execution of Webpages programs
+B. Manages the parsing of the various types
+C. Manages the execution of .NET programs
+D. All of the above
+Answer: C) Manages the execution of .NET programs
+
+
+14. SOAP in C# stands for ___.
+A. Simple Object Access Protocol
+B. Simple Object Access Program
+C. Standard Object Access Protocol
+D. Standard Object Access Program
+Answer: A) Simple Object Access Protocol
+
+15. "Garbage collection automatically reclaims memory occupied by 
+unreachable unused objects." – This statement is true or false in C#?
+A. True
+B. False
+Answer: A) True
+
+16. Which symbols are used to mark the beginning and end of a code block?
+A. Square brackets []
+B. Curly braces {}
+C. Round brackets ()
+D. Double-quotes ""
+Answer: B) Curly braces {}
+
+17. Every C# statement is terminated by ___.
+A. Colon (:)
+B. Semicolon (;)
+C. Comma (,)
+D. Dot (.)
+Answer: B) Semicolon (;)
+
+
+18. Is C# programming language a case-sensitive?
+A. Yes
+B. No
+Answer: A) Yes
+
+19. In C#, a single-line comment starts with ___.
+A. Two forward slashes (//)
+B. Two backward slashes (\\)
+C. A hash character (#)
+D. A dollar character ($)
+Answer: A) Two forward slashes (//)
+
+20. In C#, the multi-line comments placed within the ___.
+A. // and //
+B. \\ and //
+C. <!-- and -->
+D. /* and */
+Answer: D) /* and */
+
+
+21. What is the correct syntax to declare a variable in C#?
+A. type variableName = value;
+B. type variableName;
+C. variableName as type = value;
+D. Both A. and B.
+Answer: D) Both A. and B.
+
+22. Which data type is used to store text value in C#?
+A. text
+B. txt
+C. string
+D. str
+Answer: C) string
+
+23. Which C# keyword is used to define a constant?
+A. define
+B. fixed
+C. constant
+D. const
+Answer: D) const
+
+24. What is the correct syntax to define a C# constant?
+A. const type constant_name;
+B. const type constant_name = value;
+C. const constant_name as type;
+D. const constant_name as type = value;
+Answer: B) const type constant_name = value;
+
+25. Which is not a valid C# data type?
+A. long
+B. int
+C. float
+D. complex
+Answer: D) complex
+
+26. Which is the correct order for implicit type conversion to convert a smaller 
+to a larger type in C#?
+A. char -> int -> long -> float -> double
+B. bool -> char -> int -> long -> float -> double
+C. char -> int -> float -> long -> double
+D. bool -> char -> int -> long -> double -> float
+Answer: A) char -> int -> long -> float -> double
+
+
+27. Which is the correct order for explicit type conversion to convert a larger to 
+a smaller type in C#?
+A. double -> float -> long -> int -> char -> bool
+B. double -> float -> long -> int -> char
+C. float -> double -> long -> int -> char
+D. float -> double -> long -> int -> char -> bool
+Answer: B) double -> float -> long -> int -> char
+
+28. Which is the correct C# statement to convert a float value to int explicitly?
+A. int_variable = (int) float_variable;
+B. int_variable = float_variable;
+C. int_variable = (int) (float_variable);
+D. int_variable = int *float_variable);
+Answer: A) int_variable = (int) float_variable;
+
+29. What will be the output of the following C# code?
+using System;
+namespace MyApplication {
+ class Program {
+ static void Main(string[] args) {
+ bool x = true;
+ Console.Write(Convert.ToString(x));
+ }
+ }
+}
+A. True
+B. true
+C. False
+D. false
+Answer: A) True
+
+30. What will be the output of the following C# code?
+using System;
+namespace MyApplication {
+ class Program {
+ static void Main(string[] args) {
+ double x = 10.25;
+ Console.Write(Convert.ToInt32(x));
+ }
+ }
+}
+A. 10.30
+B. 10.25
+C. 10
+D. Error
+Answer: C) 10
+
+31. What is 'Console' in C#?
+A. Class
+B. Object
+C. Method
+D. Structure
+Answer: A) Class
+
+32. What will be the output of the following C# code, if the input is 123?
+using System;
+namespace MyApplication {
+ class Program {
+ static void Main(string[] args) {
+ Console.WriteLine("Enter a number:");
+ int num = Console.ReadLine();
+ Console.WriteLine("Given number is: " + num);
+ }
+ }
+}
+A. Given number is:123
+B. Given number is: 123
+C. Given number is: "123"
+D. Error
+Answer: D) Error
+
+33. What will be the output of the following C# code, if the input is 123?
+using System;
+namespace MyApplication {
+ class Program {
+ static void Main(string[] args) {
+ Console.WriteLine("Enter a number:");
+ int num = Convert.ToInt32(Console.ReadLine());
+ Console.WriteLine("Given number is: " + num);
+ }
+ }
+}
+A. Given number is:123
+B. Given number is: 123
+C. Given number is: "123"
+D. Error
+Answer: B) Given number is: 123
+
+34. Which is/are the correct method(s) to input a float value in C#?
+A. Parse(Console.ReadLine())
+B. ToSingle(Console.ReadLine())
+C. ToFloat(Console.ReadLine());
+D. Both A and B
+E. Both A and C
+Answer: B) Both A and B
+
+35. What is the difference between Console.Write() and Console.WriteLine() 
+methods in C#?
+A. Write() writes a single character while Console.WriteLine() writes a complete 
+line
+B. Write() writes the data on the console without printing a newline while 
+Console.WriteLine() writes the data on the console along with printing a 
+newline
+C. ToFloat(Console.ReadLine());
+D. Write() writes the string on the console while Console.WriteLine() writes the 
+string as well as values of the variables on the console
+E. Both can be used for the same purpose
+Answer: B) Write() writes the data on the console without printing a newline while 
+Console.WriteLine() writes the data on the console along with printing a newline
+
+36. What will be the output of the following C# code?
+using System;
+namespace MyApplication {
+ class Program {
+ static void Main(string[] args) {
+ int a = 10, b = 20;
+ Console.WriteLine("{0},{0}", a, b);
+ }
+ }
+}
+A. 10,10
+B. 10,20
+C. 20,20
+D. Error
+Answer: A) 10,10
+
+37. What will be the output of the following C# code?
+using System;
+namespace MyApplication {
+ class Program {
+ static void Main(string[] args) {
+ int a = 10, b = 20;
+ Console.WriteLine("{0}+{1}", a, b);
+ }
+ }
+}
+A. 20
+B. 30
+C. 10+20
+D. 10+10
+Answer: C) 10+20
+
+38. What will be the output of the following C# code?
+using System;
+class Program {
+ static void Main(string[] args) {
+ int i = 2;
+ int j = 10 / 4;
+ if (i == j) {
+ Console.WriteLine("True");
+ } else {
+ Console.WriteLine("False");
+ }
+ }
+}
+A. True
+B. False
+C. Error
+D. None
+Answer: A) True
+
+39. What will be the output of the following C# code?
+using System;
+class Program {
+ static void Main(string[] args) {
+ Console.WriteLine(true ^ true);
+ }
+}
+A. True
+B. False
+C. Error
+D. None
+Answer: B) False
+
+40. What will be the output of the following C# code?
+using System;
+class Program {
+ static void Main(string[] args) {
+ Console.WriteLine(true && false);
+ }
+}
+A. True
+B. False
+C. Error
+D. None
+Answer: B) False
+
+41. What is the correct syntax for do while loop in C#?
+A. do; {
+B. statement(s);
+C. } while (test_condition);
+D.
+E. do
+F. {
+G. statement(s);
+H. } while (test_condition)
+I.
+J. do(test_condition) {
+K. statement(s);
+L. }while;
+M.
+N. do {
+O. statement(s);
+P. } while (test_condition);
+Q.
+Answer: D)
+do {
+statement(s);
+} while (test_condition);
+
+42. Does C# support foreach loop?
+A. Yes
+B. No
+Answer: A) Yes
+Explanation:
+Yes, C# supports foreach loop. The foreach loop is used to iterate over the 
+elements of the collection. The collection may be an array or a list.
+Example:
+using System;
+class Program {
+ static void Main(string[] args) {
+ // an array
+ int[] arr = new int[] {10, 20, 30, 40, 50};
+ foreach(int elements in arr) {
+ Console.WriteLine(elements);
+ }
+ }
+}
+/*
+Output:
+10
+20
+30
+40
+50
+*/
+
+43. What is the correct syntax for foreach statement in C#?
+A. foreach(type variable_name in collection_name); {
+B. statement(s);
+C. }
+D.
+E. foreach(type variable_name in collection_name) {
+F. statement(s);
+G. }
+H.
+I. foreach(variable_name As Type in collection_name){
+J. statement(s);
+K. }
+L.
+M. foreach(dim type variable_name in collection_name) {
+N. statement(s);
+O. }
+P.
+Answer: B)
+foreach(type variable_name in collection_name) {
+ statement(s);
+}
+
+44. What will be the output of the following C# code?
+using System;
+class Program {
+ static void Main(string[] args) {
+ int i = 100;
+ do {
+ Console.Write(i + " ");
+ ++i;
+ } while (i <= 50);
+ }
+}
+A. Error
+B. 100 101 102 ... Infinite
+C. 101
+D. 100
+Answer: D) 100
+
+45. What will be the output of the following C# code?
+using System;
+class Program {
+ public static void Main() {
+ int i = 10;
+ Console.WriteLine(i++);
+ }
+}
+A. 10
+B. 11
+C. 12
+D. Error
+Answer: A) 10
+Explanation:
+The statement i++ is a post-increment operation, and it increases the value of i after 
+evaluating the Console.WriteLine() statement. Thus, 10 will be printed.
+Discuss this Question
+46. Which is the correct for() statement to run an infinite loop?
+A. for(;;)
+B. for(;;);
+C. for(;;)
+D. for(1;1;1)
+Answer: A) for(;;)
+
+47. Can we obtain the array index using foreach loop in C#?
+A. Yes
+B. No
+Answer: B) No
+Explanation:
+No, we cannot obtain the array index using foreach loop because it does not keep 
+track of the index, it only iterates forward over the array in single steps.
+Discuss this Question
+48. Does C# support goto statement?
+A. Yes
+B. No
+Answer: A) Yes
+
+
+49. What is the use of 'throw' statement in C#?
+A. to return from the calling functions to called function
+B. to throw an exception manually during the execution of the program
+C. to return from the switch statement
+D. None of the above
+Answer: B) to throw an exception manually during the execution of the program
+
+50. Which C# keyword is used to coming out from the loop?
+A. break
+B. continue
+C. Both A and B
+D. None of the above
+Answer: A) break
+
+51. What is String in C# meant for?
+A. A variable
+B. A Class
+C. An Array
+D. An object
+Answer: D) An object
+Explanation:
+In C#, String is an object of System.String class.
+Discuss this Question
+52. Can we use == operator to compare two strings?
+A. Yes
+B. No
+Answer: A) Yes
+Explanation:
+Two strings can be compared by using the == Operator.
+Discuss this Question
+53. Which is the base class of the String() Constructor?
+A. String
+B. System.IO.String
+C. System.Strings
+D. System.String
+Answer: D) System.String
+Explanation:
+In C#, System.String is a base class for all String related methods, properties, 
+constructors, and operators.
+Discuss this Question
+54. Which String class operator is used to determine whether two specified 
+strings have different values?
+A. !=
+B. !
+C. ~
+D. ~
+Answer: A) !=
+Explanation:
+In C#, the inequality operator (!=) can be used to determine whether two specified 
+strings have different values.
+Syntax of inequality operators is:
+public static bool operator != (string? a, string? b);
+Discuss this Question
+55. Except == operator, which methods can be used to compare two strings?
+A. Equal()
+B. Compare()
+C. Both A and B
+D. None of these
+Answer: C) Both A and B
+Explanation:
+The Equal() and Compare() methods can also be used to compare two strings in 
+C#.
+Discuss this Question
+56. Which is the correct method to convert given string in uppercase?
+A. Upper()
+B. ToUpper()
+C. Upr()
+D. ToUpr()
+Answer: B) ToUpper()
+Explanation:
+The ToUpper() method is used to convert the given string into the uppercase.
+Example:
+using System;
+class Program {
+ public static void Main() {
+ string str = "includehelp";
+ Console.WriteLine(str.ToUpper());
+ }
+}
+Discuss this Question
+57. What is String.Length in C#?
+A. Property
+B. Method
+C. Constructor
+D. Both A and B
+Answer: A) Property
+Explanation:
+The String.Length is property of System.String class that is used to get the 
+number of characters in the current String object.
+Syntax of String.Length property is:
+public int Length { get; }
+Discuss this Question
+58. What will be the output of the following C# code?
+using System;
+class Program {
+ static void Main(string[] args) {
+ String s1 = "Hello";
+ String s2 = "IncludeHelp";
+ String s3 = s1;
+ Console.WriteLine(s1.Equals(s3) + " " + s2.CompareTo(s1));
+ }
+}
+A. Error
+B. True True
+C. True False
+D. True 1
+Answer: D) True 1
+Explanation:
+The Equals() method returns a bool value. We assigned s1 to s3. Thus, the 
+statement s1.Equals(s3) will returns "True". And, the CompareTo() method 
+returns an int value (Less than 0, o, or greater than 0). The 
+statement s2.CompareTo(s1) will returns 1 because this instance (s2) follows s1.
+Discuss this Question
+59. What will be the output of the following C# code?
+using System;
+class Program {
+ static void Main(string[] args) {
+ String str = "Hello";
+ Console.WriteLine(str.Length);
+ }
+}
+A. 5
+B. 6
+C. 7
+D. 4
+Answer: A) 5
+Explanation:
+The String.Length returns the length of the string. Thus, the output will be 5.
+Discuss this Question
+60. What will be the output of the following C# code?
+using System;
+class Program {
+ static void Main(string[] args) {
+ String str = "Hello";
+ Console.WriteLine(str.IndexOf('h'));
+ }
+}
+A. 0
+B. 1
+C. -1
+D. Error
+Answer: C) -1
+Explanation:
+The IndexOf() method returns the index of a given characters, and it returns -1 if 
+the given character is not found in the string. Here, we are trying to get the index of 
+'h' which is not present in the string. Thus, the output will be -1.
+Discuss this Question
+6) C# Arrays MCQs
+61. To declare an array, define the variable type with ___.
+A. Square brackets []
+B. Curly brackets {}
+C. Round brackets ()
+D. None of the above
+Answer: A) Square brackets []
+Explanation:
+To declare an array, define the variable type with square brackets [].
+Discuss this Question
+62. What will be the output of the following C# code?
+using System;
+namespace MyApplication {
+ class Program {
+ static void Main(string[] args) {
+ string[] mobiles = { "iPhone", "Samsung", "Vivo"};
+ Console.WriteLine(mobiles);
+ }
+ }
+}
+A. "iPhone", "Samsung", "Vivo"
+B. {"iPhone", "Samsung", "Vivo"}
+C. string[]
+D. System.String[]
+Answer: D) System.String[]
+Explanation:
+In the above code, the statement Console.WriteLine(mobiles); will print the 
+type of the variable that is System.String[].
+Discuss this Question
+63. What will be the output of the following C# code?
+using System;
+namespace MyApplication {
+ class Program {
+ static void Main(string[] args) {
+ string[] mobiles = {"iPhone", "Samsung", "Vivo"};
+ Console.WriteLine(mobiles[-1]);
+ }
+ }
+}
+A. None
+B. Warning
+C. Exception
+D. System.String[]
+Answer: C) Exception
+Explanation:
+The array index starts from 0 in C#, in the above code – we are trying to get the 
+element with index -1. Thus, there will be an exception 
+"System.IndexOutOfRangeException: Index was outside the bounds of the array."
+Discuss this Question
+64. Which statement is correct about the following C# statement?
+int[] x= {10, 20, 30};
+A. 'x' is a reference to the array created on stack
+B. 'x' is a reference to an object created on stack
+C. 'x' is a reference to an object of a 'System.Array' class
+D. None of the above
+Answer: C) 'x' is a reference to an object of a 'System.Array' class
+Explanation:
+In the above given C# statement, the variable 'x' is a reference to an object of a 
+'System.Array' class.
+Discuss this Question
+65. Which array property is used to get the total number of elements in C#?
+A. Len
+B. Length
+C. Elements
+D. MaxLen
+Answer: B) Length
+Explanation:
+The Length property is used to get the total number of elements in C#.
+Discuss this Question
+66. What will be the output of the following C# code?
+using System;
+namespace MyApplication {
+ class Program {
+ static void Main(string[] args) {
+ string[] mobiles = {"iPhone", "Samsung", "Vivo"};
+ Console.WriteLine(mobiles[0] + mobiles[2]);
+ }
+ }
+}
+A. iPhoneVivo
+B. iPhone+Vivo
+C. Exception
+D. iPhone Vivo
+Answer: A) iPhoneVivo
+Explanation:
+In the above code, the statement mobiles[0]+mobiles[2] will concatenate the 0th 
+and 2nd elements that are "iPhone" and "Vivo". Thus, the output will be 
+"iPhoneVivo".
+Discuss this Question
+67. Which array method is used to sort an array alphabetically or in an 
+ascending order in C#?
+A. sort()
+B. sorting()
+C. Sort()
+D. Sorting()
+Answer: C) Sort()
+Explanation:
+The Sort() method is used to sort an array alphabetically or in an ascending order 
+in C#.
+Discuss this Question
+68. What will be the output of the following C# code?
+using System;
+namespace MyApplication {
+ class Program {
+ static void Main(string[] args) {
+ string[] mobiles = {"iPhone", "Samsung", "Vivo"};
+ Console.WriteLine(mobiles[0] + mobiles[2]);
+ }
+ }
+}
+A. iPhone
+B. Vivo
+C. iPhoneVivo
+D. Runtime Error
+Answer: C) iPhoneVivo
+Discuss this Question
+69. What will be the output of the following C# code?
+using System;
+namespace MyApplication {
+ class Program {
+ static void Main(string[] args) {
+ int[,] ARR = {{1,2},{3,4}};
+ Console.WriteLine(ARR.GetLength(0)+","+ARR.GetLength(1));
+ }
+ }
+}
+A. 4,4
+B. 2,2
+C. Compilation Error
+D. Runtime Error
+Answer: B) 2,2
+Explanation:
+The above code will print the length of the of the first and second rows of the above 
+two-dimensional array.
+Discuss this Question
+70. Which of the correct syntax to declare an array with 2 rows and 3 columns 
+in C#?
+A. int arr[2][3] = new int[2][3];
+B. int arr[2,3] = new int[2,3];
+C. int[,] arr = new int[2,3];
+D. int [,]arr = new [2,3]int;
+Answer: C) int[,] arr = new int[2,3];
+Explanation:
+The correct way to declare an array with 2 rows and 3 columns in C# is:
+int[,] arr = new int[2,3];
+Discuss this Question
+7) C# OOP MCQs
+71. Which keyword is used to define a class in C#?
+A. Class
+B. class
+C. System.Class
+D. OOPS.class
+Answer: B) class
+Explanation:
+The class keyword is used to define a class in C#.
+Syntax:
+class class_name
+{
+// Class Definition
+}
+Discuss this Question
+72. Which is the correct way to declare an object of the class in C#?
+A. Class_Name Object_Name = new Class_Name();
+B. Class_Name Object_Name;
+C. new Object_Name as Class_Name();
+D. Both A and B
+Answer: A) Class_Name Object_Name = new Class_Name();
+Explanation:
+The correct way to declare an object of the class in C# is:
+Class_Name Object_Name = new Class_Name();
+Consider the below example:
+using System;
+namespace MyApplication {
+ class Mobiles {
+ string brand = "Apple";
+ static void Main(string[] args) {
+ Mobiles mobile = new Mobiles();
+ Console.WriteLine(mobile.brand);
+ }
+ }
+}
+// Output: Apple
+Discuss this Question
+73. Which operator is used to access variables/fields inside a class in C#?
+A. Arrow Operator (->)
+B. Dot Operator (.)
+C. Greater Than (>)
+D. Dot and Greater Than (.>)
+Answer: B) Dot Operator (.)
+Explanation:
+The dot (.) symbol (or dot operator) is used to access variables/fields in a class in C#.
+Syntax:
+Class_Name.Variable_Name/Field_Name;
+Discuss this Question
+74. Is overriding of a function possible in the same class in C#?
+A. Yes
+B. No
+Answer: B) No
+Explanation:
+No, overriding of a function is not possible in the same class in C#. As per the 
+explanation on MSDN – The override modifier is required to extend or modify the 
+abstract or virtual implementation of an inherited method, property, indexer, or 
+event.
+Discuss this Question
+75. Which is not a type of constructor in C#?
+A. Static Constructor
+B. Private Constructor
+C. Body Constructor
+D. Parameterized Constructor
+Answer: C) Body Constructor
+Explanation:
+There are basically 5 types of the constructors in C#, they are:
+• Static constructor
+• Private constructor
+• Copy constructor
+• Default constructor
+• Parameterized constructor
+Discuss this Question
+76. How many types of access modifiers in C#?
+A. 2
+B. 3
+C. 4
+D. 5
+Answer: C) 4
+Explanation:
+In C#, there are 4 types of access modifiers, they are:
+• public
+• private
+• protected
+• internal
+Discuss this Question
+77. What does the access modifier do in C#?
+A. To maintain the syntax
+B. To define a variable inside the class
+C. To access the variables defined inside the class
+D. To control the visibility of class members
+Answer: D) To control the visibility of class members
+Explanation:
+In C#, there are 4 types of access modifiers they are public, private, protected, and 
+internal. And these access modifiers are used to control the visibility of class 
+members (the security level of each individual class and class member).
+Discuss this Question
+78. The internal access modifier is used for ___.
+A. Types and type members
+B. Defining a field that can be accessed in all classes
+C. Defining a field that can be accessed in inherited classes
+D. All of the above
+Answer: A) Types and type members
+Explanation:
+In C#, the internal access modifier is used for types and type members. The internal 
+types or members (those are defined by the using of internal keyword/ access 
+modifier) are accessible only within files in the same assembly.
+Discuss this Question
+79. The protected access modifier defines a member that can be accessible 
+within ___.
+A. its class and all other classes
+B. its class and by derived class instances
+C. its class only
+D. None of the above
+Answer: B) its class and by derived class instances
+Explanation:
+In C#, the protected access modifier defines a member that can be accessible within 
+its class and by derived class instances.
+Discuss this Question
+80. Does C# support multiple inheritance?
+A. Yes
+B. No
+Answer: B) No
+Explanation:
+No, C# does not support multiple class inheritance.
+Discuss this Question
+81. Which C# concept has the capability of an object to take number of 
+different forms and hence display behaviour as accordingly?
+A. Polymorphism
+B. Encapsulation
+C. Abstraction
+D. None of the above
+Answer: A) Polymorphism
+Explanation:
+In C#, the concept has the capability of an object to take number of different forms 
+and hence display behaviour as accordingly known as "Polymorphism".
+Discuss this Question
+82. What will be the output of the following C# code?
+using System;
+namespace MyApplication {
+ public class Class1 {
+ public static int x = 10;
+ }
+ public class Class2: Class1 {
+ public static int x = 20;
+ static void Main(string[] args) {
+ Console.WriteLine(x + ", " + Class1.x);
+ }
+ }
+}
+A. 20, 20
+B. 10, 10
+C. 20, 10
+D. Exception
+Answer: C) 20, 10
+Explanation:
+In the above code, we are printing the values of x which is the member 
+of Class2 and Class1.x which is the member of Class1. Thus, the output will be 
+"20, 10".
+Discuss this Question
+83. What is the C# keyword which is used to change data and behaviour of a 
+base class by replacing a member of the base class with a new derived member?
+A. overrides
+B. protected
+C. base
+D. new
+Answer: D) new
+Explanation:
+The C# keyword new is used to change data and behaviour of a base class by 
+replacing a member of the base class with a new derived member.
+Discuss this Question
+84. Which keyword is used to declare an interface in C#?
+A. interface
+B. Interface
+C. implement
+D. Implement
+Answer: A) interface
+Explanation:
+In C#, an interface can be declared using the interface keyword. An interface can 
+contain declarations of methods, properties, indexers, and events.
+Discuss this Question
+85. In C#, by default, the default interface methods are ___.
+A. virtual
+B. sealed
+C. private
+D. public
+Answer: A) virtual
+Explanation:
+In C#, by default, the default interface methods are virtual unless the sealed or 
+private modifier is used.
+Discuss this Question
+86. In C#, the objects created using new operator are stored in ___.
+A. Cache Memory
+B. Stack Memory
+C. Heap Memory
+D. None of the above
+Answer: C) Heap Memory
+Explanation:
+In C#, the objects created using new operator are stored in Heap Memory.
+Discuss this Question
+87. Which of the following cannot be used to declare an interface in C#?
+A. Methods
+B. Properties
+C. Events
+D. Structures
+Answer: D) Structures
+Explanation:
+In C#, to declare an interface – we cannot use structures.
+Discuss this Question
+88. Which of the access specifier is used in interface in C#?
+A. private
+B. public
+C. protected
+D. All of the above
+Answer: B) public
+Explanation:
+In C#, the interface members are always public, because the purpose of an interface 
+is to enable other types to access a class or struct. No other access modifiers can be 
+applied to interface members.
+Discuss this Question
+89. Which type of class does not have its own objects but acts as a base class for 
+its subclass in C#?
+A. Abstract Class
+B. Static Class
+C. Sealed Class
+D. Protected Class
+Answer: A) Abstract Class
+Explanation:
+In C#, the Abstract Class does not have its own objects but acts as a base class for its 
+subclass.
+Discuss this Question
+90. Which modifier is used to while redefining an abstract method by a derived 
+class in C#?
+A. Overloads
+B. New
+C. Overrides
+D. Virtual
+Answer: C) Overrides
+Explanation:
+In C#, the Overrides modifier is used to while redefining an abstract method by a 
+derived class.
+Discuss this Question
+8) C# Miscellaneous Topics MCQs
+91. Does C# support pointers?
+A. Yes
+B. No
+Answer: A) Yes
+Explanation:
+Yes, C# supports pointers in a limited extent.
+Discuss this Question
+92. A C# pointer is used to store the ___ of another type.
+A. Value
+B. Memory address
+C. Size of the type
+D. Reference of the variable
+Answer: B) Memory address
+Explanation:
+A C# pointer is used to store the memory address of another type.
+Discuss this Question
+93. C# pointer can only be declared to hold the memory address of ___.
+A. value types and arrays
+B. reference types
+C. pointer types
+D. reference and pointer types
+Answer: A) value types and arrays
+Explanation:
+C# pointer can only be declared to hold the memory address of value types and 
+arrays. Unlike reference types, pointer types are not tracked by the default garbage 
+collection mechanism.
+Discuss this Question
+94. How many catch blocks can be used with a single try block in C#?
+A. One
+B. Two
+C. Many
+D. None of the above
+Answer: C) Many
+Explanation:
+In C#, there can be multiple (many) catch blocks with a single try block.
+Discuss this Question
+95. Is the use of return statement necessary in every function in C#?
+A. Yes
+B. No
+Answer: A) Yes
+Explanation:
+Yes, the use of return statement is necessary in every function in C#.
+Discuss this Question
+96. Which access specifier should be used for Main() method in C#?
+A. private
+B. public
+C. protected
+D. internal
+Answer: B) public
+Explanation:
+The C# Main() method should be defined as public because it is called by runtime. By 
+default Main() method is private.
+Discuss this Question
+97. In C#, a namespace is the collection of classes?
+A. True
+B. False
+Answer: A) True
+Explanation:
+Yes, a namespace is the collection of classes.
+Discuss this Question
+98. Which is the C# class from which data type UInt is derived?
+A. System.Int16
+B. System.Int32
+C. System.UInt16
+D. System.UInt32
+Answer: D) System.UInt32
+Explanation:
+The Uint data type is derived from System.UInt32 class.
+Discuss this Question
+99. Which is the first line of a C# program?
+A. using System;
+B. using system;
+C. using Namespace;
+D. namespace MyApplication
+Answer: A) using System;
+Explanation:
+The first line of a C# program is:
+using System;
+Discuss this Question
+100. In C#, structures are used for ___ objects such as mobiles, cars, etc.
+A. Lightweight
+B. Darkweight
+C. Extra
+D. Compress
+Answer: A) Lightweight
+Explanation:
+In C#, structures are used for lightweight objects such as mobiles, cars, etc.
