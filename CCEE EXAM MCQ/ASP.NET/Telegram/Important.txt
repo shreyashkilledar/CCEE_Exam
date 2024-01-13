@@ -1,0 +1,27 @@
+Imp Website:- StudySite.org
+	
+
+Some Answers I Found
+
+1. C(Error)
+5. B(CLS(Common Language Specification))
+6. C(Operator)
+7. A(1,2,3,4,5)
+8. B(Switch)
+11.D(All-Session,Application,ViewBag) 
+13.D(Extension)
+14.B(Request.Form)
+15.B(Name Collision)
+16.C(Security Contract)
+18.B(Dynamic)
+
+
+Imp Points from Previous Year Exam
+1. MVC
+2. Threads
+3. Components of Dotnet Framework
+4. Operators
+5. Inheritance
+6. All Snippets
+
+
