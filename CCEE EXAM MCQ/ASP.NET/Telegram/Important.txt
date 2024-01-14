@@ -2,6 +2,8 @@ Imp Website for ASP.NET:- https://studysite.org/engineering/computer/aspnet_obje
 Latest Version of ASP.NET Core = Version (8.0.1)
 	
 *ASP.NET is Major upgrade over ASP
+*ASP+ & ASP.NET refer to the same thing
+*ASP.NET Application runs without Web Server
 
 Some Answers I Found
 
