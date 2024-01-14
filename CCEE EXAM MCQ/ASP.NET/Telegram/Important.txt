@@ -1,6 +1,7 @@
 Imp Website for ASP.NET:- https://studysite.org/engineering/computer/aspnet_objective_type_questions_mcq
 Latest Version of ASP.NET Core = Version (8.0.1)
 	
+*ASP.NET is Major upgrade over ASP
 
 Some Answers I Found
 
