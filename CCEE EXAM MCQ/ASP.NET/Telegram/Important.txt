@@ -18,10 +18,29 @@ Some Answers I Found
 
 Imp Points from Previous Year Exam
 1. MVC
+Model: Model is a part of the application which implements the logic for the data domain of the application. It is used to retrieve and store model state in a database such as SQL Server database. It also used for business logic separation from the data in the application.Model: Model is a part of the application which implements the logic for the data domain of the application. It is used to retrieve and store model state in a database such as SQL Server database. It also used for business logic separation from the data in the application.
+
+View: View is a component that forms the application's user interface. It is uses to create web pages for the application. An example would be an edit view of a Products table that displays text boxes, drop-down lists and check boxes based on the current state of a Product object.
+
+Controller: Controller is the component which handles user interaction. It works with the model and selects the view to render the web page. In an MVC application, the view only displays information whereas the controller handles and responds to the user input and requests.
+
 2. Threads
 3. Components of Dotnet Framework
+CLR (Common Language Runtime)
+CLR is responsible for providing common syntax, automatic memory management, and common data type. Also, the responsibility of CLR is generating native code from MSIL Code.
+
+CLS (Common Language Specification)
+As we know that .NET support 63 programming language and also we know that each and every language has their own syntax for writing code and one language does not support the syntax of another language. That means .NET has features of common syntax which are supported by all 63 programming languages.
+ 
+CTS (Common Type System) 
+As we know that .NET support 63 programming languages and also we know that each and every language has their own data type system and One language does not support data type of another language. That means .NET has features of Common Data type which is supported by all 63 programming languages.
+ 
+
+
 4. Operators
 5. Inheritance
 6. All Snippets
+
+
 
 
