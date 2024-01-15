@@ -1,0 +1,10 @@
+Answers of Previous Year Question Paper
+1. (D) Only One
+2. (C) @SpringBootApplication
+3. (C) Savepoint
+4. (D) getConnection(String url) throws SQLException
+5. (A) Idempotence
+7. (C) @SpringBootTest
+8. (D) servlet filter
+13.(A) First Level Cache
+17.(A) @JoinTable
