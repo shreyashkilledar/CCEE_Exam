@@ -8,3 +8,12 @@ Answers of Previous Year Question Paper
 8. (D) servlet filter
 13.(A) First Level Cache
 17.(A) @JoinTable
+
+IMP:
+Web Container: Managing Security and access control for the application
+Tiers in J2EE Architecture: (1)Client Tier 
+                            (2)Web or Presentation Tier 
+                            (3)Business or Application Tier 
+                            (4)Integration or EIS(Enterprise-information systems) Tier 
+                            (5)Resources Tier
+J2EE apps are Typically packaged as : jar files
