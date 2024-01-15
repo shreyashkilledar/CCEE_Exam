@@ -10,21 +10,27 @@ Answers of Previous Year Question Paper
 17.(A) @JoinTable
 
 IMP:
-Web Container: Managing Security and access control for the application
+Web Container: Managing Security and access control for the application, managing servlets & JSP's
 Tiers in J2EE Architecture: (1)Client Tier 
                             (2)Web or Presentation Tier 
                             (3)Business or Application Tier 
                             (4)Integration or EIS(Enterprise-information systems) Tier 
                             (5)Resources Tier
-J2EE apps are Typically packaged as : jar files
+J2EE apps are Typically packaged as : .jar files
+J2EE Web Applications Typically packaged as : .war files
+WEB-INF: To store configuration files and libraries
 
 
 
 
 Short Form's Long Form
-J2EE= Java 2 Enterprise Edition (It is run on any Operating system and provides Security Projects & Transaction Support)
+J2EE= Java 2 Enterprise Edition (It is run on any Operating system and provides Security Projects & Transaction Support)(It provides both runtime services & development environment)
+      It is XML configuration files
 IDE= Integrated Development Environment
 API= Application Programming Interface (develop, deploy, managing apps)
 EIS= Enterprise-information systems
 EJB= Enterprise JavaBeans
+DD= Deployment Descriptor
+jar= Java Archieve
+war= web Application Archieve (It contains both static content & Java classes and resources)(files places In the WEB-INF directory)
 
