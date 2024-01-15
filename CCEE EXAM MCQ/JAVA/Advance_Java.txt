@@ -17,3 +17,14 @@ Tiers in J2EE Architecture: (1)Client Tier
                             (4)Integration or EIS(Enterprise-information systems) Tier 
                             (5)Resources Tier
 J2EE apps are Typically packaged as : jar files
+
+
+
+
+Short Form's Long Form
+J2EE= Java 2 Enterprise Edition (It is run on any Operating system and provides Security Projects & Transaction Support)
+IDE= Integrated Development Environment
+API= Application Programming Interface (develop, deploy, managing apps)
+EIS= Enterprise-information systems
+EJB= Enterprise JavaBeans
+
