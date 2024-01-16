@@ -4,7 +4,7 @@ Imp Topics From Advance Java
 3. Hibernate
 4. Spring
 5. SpringBoot
-6. Annotations usesd (All)
+6. Annotations used (All)
 7. 
 
 
