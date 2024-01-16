@@ -26,7 +26,7 @@ HIBERNATE:
 2. Mapping: Mapping Bag, Mapping List, Mapping Set, Mapping Map
 3. Relations: One-To-One, One-To-Many, Many-To-One,  Many-To-Many
 4. Fetch Types: Lazy, Eager
-
+5. 
 
 
 
