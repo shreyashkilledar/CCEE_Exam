@@ -1,3 +1,13 @@
+Imp Topics From Advance Java
+1. JDBC
+2. Servelet
+3. Hibernate
+4. Spring
+5. SpringBoot
+6. Annotations usesd (All)
+
+
+
 Answers of Previous Year Question Paper
 1. (D) Only One
 2. (C) @SpringBootApplication
@@ -26,7 +36,10 @@ HIBERNATE:
 2. Mapping: Mapping Bag, Mapping List, Mapping Set, Mapping Map
 3. Relations: One-To-One, One-To-Many, Many-To-One,  Many-To-Many
 4. Fetch Types: Lazy, Eager
-5. 
+5.  1. Session: First Level cache
+    2. SessionFactory: Second level Cache
+    3. Transaction: First Level Cache
+
 
 
 
