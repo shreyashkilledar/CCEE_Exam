@@ -21,6 +21,11 @@ J2EE Web Applications Typically packaged as : .war files
 WEB-INF: To store configuration files and libraries
 
 
+HIBERNATE:
+1. Core Components: SessionFactory, Session, Transaction, Query, Configuration, Criteria
+2. 
+
+
 
 
 Short Form's Long Form
