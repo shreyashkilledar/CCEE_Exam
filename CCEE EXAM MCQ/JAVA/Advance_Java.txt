@@ -5,6 +5,7 @@ Imp Topics From Advance Java
 4. Spring
 5. SpringBoot
 6. Annotations usesd (All)
+7. 
 
 
 
@@ -39,6 +40,22 @@ HIBERNATE:
 5.  1. Session: First Level cache
     2. SessionFactory: Second level Cache
     3. Transaction: First Level Cache
+
+
+
+JSP Action Valid Tags
+jsp:useBean
+jsp:include
+jsp:setProperty
+jsp:getProperty
+jsp:forward
+jsp:plugin
+jsp:attribute
+jsp:body
+jsp:text
+jsp:param
+jsp:attribute
+jsp:output
 
 
 
