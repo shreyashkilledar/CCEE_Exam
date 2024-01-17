@@ -9,3 +9,23 @@ A) Operating System Topics
   8. Virtual Memory
   9. DeadLock
   10.Inter Process Communication
+
+Imp:
+A)Contiguous Memory Allocation:
+1) First Fit
+The first-fit algorithm searches for the first free partition that is large enough to accommodate the process. The operating system starts searching from the beginning of the memory and allocates the first free partition that is large enough to fit the process.
+For example, suppose we have the following memory partitions:
+| 10 KB | 20 KB | 15 KB | 25 KB | 30 KB |
+Now, a process requests 18 KB of memory. The operating system starts searching from the beginning and finds the first free partition of 20 KB. It allocates the process to that partition and keeps the remaining 2 KB as free memory.
+
+2) Best Fit
+The best-fit algorithm searches for the smallest free partition that is large enough to accommodate the process. The operating system searches the entire memory and selects the free partition that is closest in size to the process.
+For example, suppose we have the following memory partitions:
+| 10 KB | 20 KB | 15 KB | 25 KB | 30 KB |
+Now, a process requests 18 KB of memory. The operating system searches for the smallest free partition that is larger than 18 KB, and it finds the partition of 20 KB. It allocates the process to that partition and keeps the remaining 2 KB as free memory.
+
+3) Worst Fit
+The worst-fit algorithm searches for the largest free partition and allocates the process to it. This algorithm is designed to leave the largest possible free partition for future use.
+For example, suppose we have the following memory partitions:
+| 10 KB | 20 KB | 15 KB | 25 KB | 30 KB |
+Now, a process requests 18 KB of memory. The operating system searches for the largest free partition, which is 30 KB. It allocates the process to that partition and keeps the remaining 12 KB as free memory.
