@@ -4,3 +4,8 @@ A) Operating System Topics
   3. Shell Programming
   4. Processes
   5. Signals
+  6. Threads
+  7. Memory Management
+  8. Virtual Memory
+  9. DeadLock
+  10.Inter Process Communication
