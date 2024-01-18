@@ -11,7 +11,7 @@ A) Operating System Topics
   10.Inter Process Communication
 
 
-Answers of Question Paper
+Answers of Question Paper(OS)
 1. D
 2. C
 3. A
