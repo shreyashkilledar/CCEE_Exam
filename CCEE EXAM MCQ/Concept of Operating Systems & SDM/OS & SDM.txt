@@ -10,6 +10,15 @@ A) Operating System Topics
   9. DeadLock
   10.Inter Process Communication
 
+
+Answers of Question Paper
+1. D
+2. C
+3. A
+4. D
+5. D
+
+
 Imp:
 A)Contiguous Memory Allocation:
 1) First Fit
