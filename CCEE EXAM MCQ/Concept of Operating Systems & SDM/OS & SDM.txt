@@ -56,7 +56,8 @@ Answers of Question Paper(OS)
 
 
 Imp:
-#A)Contiguous Memory Allocation:
+#Memory Allocation Strategies
+A)Contiguous Memory Allocation:
 1) First Fit
 The first-fit algorithm searches for the first free partition that is large enough to accommodate the process. The operating system starts searching from the beginning of the memory and allocates the first free partition that is large enough to fit the process.
 For example, suppose we have the following memory partitions:
@@ -110,7 +111,11 @@ Now, a process requests 18 KB of memory. The operating system searches for the l
 
 #Memory Allocation Techniques
 A)Contiguous
-  1.Fixed Partition Scheme 
+  1.Fixed Partition Scheme: Number of Partitions are fixed & size may or may not be same. Types-->(1)Equal (2)Unequal
+  2.Variable Partition Scheme: Number of Partitions are not fixed and Size of partition is same before incoming & varies after process.
+B)Non-Contiguous
+  1.Paging
+  2.Segmentation
 
 
 
