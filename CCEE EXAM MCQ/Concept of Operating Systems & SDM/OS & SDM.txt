@@ -83,9 +83,9 @@ Types Of Processes:
    *BackGround Process
 3. *Interactive Process
    *Non-Interactive Process
-4. *Zombie
-   *Orphan
-   *Daemon
+4. *Zombie Process 
+   *Orphan Process
+   *Daemon Process
 
 
 
