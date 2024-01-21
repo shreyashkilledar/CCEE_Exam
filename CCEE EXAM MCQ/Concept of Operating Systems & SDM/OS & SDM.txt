@@ -148,7 +148,9 @@ B)Non-Contiguous
 
 
 ##SDM
-
+Git: 	
+1.It is a Version control system
+2.
 
 
 
