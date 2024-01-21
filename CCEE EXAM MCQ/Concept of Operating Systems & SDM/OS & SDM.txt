@@ -103,6 +103,10 @@ Now, a process requests 18 KB of memory. The operating system searches for the l
 3.Priority
 4.RR (Round Robin)
 
+#Address Binding
+1.Compile time
+2.Load time
+3.Execution time
 
 
 
