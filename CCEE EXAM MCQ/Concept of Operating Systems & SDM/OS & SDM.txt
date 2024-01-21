@@ -121,6 +121,9 @@ B)Non-Contiguous
 1. Hit ratio
 2. Miss Ratio
 
+##Deadlock: When a waiting process requested is never again able to change state because the resource is held by other waiting process. This situation is Deadlock.
+  *Two types – (a) preemptable  (b) non-premptable
+  *Sequence of events : (a) Request resource   (b) Use resource   (c) release resource
 
 
 
