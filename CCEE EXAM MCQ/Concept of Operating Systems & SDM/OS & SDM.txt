@@ -155,6 +155,7 @@ Git:
 4.Benifit:  It facilitates collaboration among team members and tracks code changes.
 5.Git new Repository: -"git init" for create new repository.
                       -A Collection of code files & their complete history of changes.
+                      -It stores the complete history of changes to the code.
                         
 
 
