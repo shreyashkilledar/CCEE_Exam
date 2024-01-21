@@ -87,9 +87,9 @@ Now, a process requests 18 KB of memory. The operating system searches for the l
    *Daemon Process
 
 #Exec() Family
-1.execv: Program arguments passed as an array of strings -->int execv( const char *path, char *const argv[] );
+1.execv: Program arguments passed as an array of strings --> int execv( const char *path, char *const argv[] );
 2.execvp: Searches for the program name in the PATH environment  --> int execvp( const char *file, char *const argv[] );
-3.execl: Program arguments passed directly as a list 
+3.execl: Program arguments passed directly as a list --> int execl( const char *path, const char *arg, ... );
 4.execlp: Searches for the program name in the PATH environment
 
 
