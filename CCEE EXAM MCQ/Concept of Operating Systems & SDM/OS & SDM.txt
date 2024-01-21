@@ -124,6 +124,13 @@ B)Non-Contiguous
 ##Deadlock: When a waiting process requested is never again able to change state because the resource is held by other waiting process. This situation is Deadlock.
   *Two types – (a) preemptable  (b) non-premptable
   *Sequence of events : (a) Request resource   (b) Use resource   (c) release resource
+  *Conditions: (a) Mutual exclusion condition: Spool everything
+               (b) Hold and wait condition: Request all resources initially  
+               (c) No preemption condition: Take resources away  
+               (d) Circular wait condition: Order resources numerically 
+  *Handling Deadlocks: (a) Ignorance  (b) Prevention  (c) Avoidance  (d) Detection and recovery
+  *DeadLock Avoidance: (a) Safe State
+                       (b) Unsafe State
 
 
 
