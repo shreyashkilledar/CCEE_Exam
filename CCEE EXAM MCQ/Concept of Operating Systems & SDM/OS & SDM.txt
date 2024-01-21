@@ -138,6 +138,13 @@ B)Non-Contiguous
           (d)SIGALRM: Timer signal
           (e)SIGCHLD: Child stopped & terminated
 
+#Threads: (a) User Level: Faster  (b) Kernel Level: Slower
+ *MultiThreading: 1.OneToOne: Windows NT, Linux
+                  2.ManyToOne: Solaris Green Threads and GNU portable threads
+                  3.ManyToMany: Solaris prior to ver 9 and Windows 2000
+
+#Pipe: A pipe is a data channel that is unidirectional. (Write-end & Read-end) Types: (a)Ordinary (b)Named
+
 
 
 
