@@ -117,6 +117,10 @@ B)Non-Contiguous
   1.Paging
   2.Segmentation
 
+#FIFO (First In First Out)
+1. Hit ratio
+2. Miss Ratio
+
 
 
 
