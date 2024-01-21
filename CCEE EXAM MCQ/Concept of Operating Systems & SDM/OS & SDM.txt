@@ -108,6 +108,9 @@ Now, a process requests 18 KB of memory. The operating system searches for the l
 2.Load time
 3.Execution time
 
+#Memory Allocation Techniques
+A)Contiguous
+  1.Fixed Partition Scheme 
 
 
 
