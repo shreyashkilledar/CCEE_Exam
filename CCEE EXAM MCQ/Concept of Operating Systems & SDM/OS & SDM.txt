@@ -97,6 +97,32 @@ Now, a process requests 18 KB of memory. The operating system searches for the l
 2.Medium term ( swapping scheduler)
 3.Short term (CPU scheduler)
 
+#Algorithms
+1.FCFS (First Come First Served)
+2.SJF (Shortest Job First)
+3.Priority
+4.RR (Round Robin)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
