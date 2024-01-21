@@ -151,7 +151,7 @@ B)Non-Contiguous
 Git: 	
 1.It is a Version control system
 2.Linus Torvalds created Git.
-
+3.Purpose: To track changes in code file
 
 
 
