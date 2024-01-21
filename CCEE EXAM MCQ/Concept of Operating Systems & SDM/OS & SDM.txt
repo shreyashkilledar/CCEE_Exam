@@ -157,6 +157,7 @@ Git:
                       -A Collection of code files & their complete history of changes.
                       -It stores the complete history of changes to the code.
 6.".git" folder purpose: To store metadata and configuration files for the repository.
+7. It creates a commit object that represents the change and adds it to the repository's history.
                         
 
 
