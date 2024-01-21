@@ -81,8 +81,8 @@ Types Of Processes:
    *Child Process
 2. *ForeGround Process
    *BackGround Process
-3. *Interactive
-   *Non-Interactive
+3. *Interactive Process
+   *Non-Interactive Process
 4. *Zombie
    *Orphan
    *Daemon
