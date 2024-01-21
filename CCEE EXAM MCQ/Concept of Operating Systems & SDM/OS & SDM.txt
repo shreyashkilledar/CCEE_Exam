@@ -132,6 +132,12 @@ B)Non-Contiguous
   *DeadLock Avoidance: (a) Safe State
                        (b) Unsafe State
 
+#Signals: (a)SIGINT: Interrupt from keyboard(ctrl-c)
+          (b)SIGKILL: Kill Program (cannot override or ignore)
+          (c)SIGSEGV: Segmentation violation
+          (d)SIGALRM: Timer signal
+          (e)SIGCHLD: Child stopped & terminated
+
 
 
 
