@@ -156,6 +156,7 @@ Git:
 5.Git new Repository: -"git init" for create new repository.
                       -A Collection of code files & their complete history of changes.
                       -It stores the complete history of changes to the code.
+6.".git" folder purpose: To store metadata and configuration files for the repository.
                         
 
 
