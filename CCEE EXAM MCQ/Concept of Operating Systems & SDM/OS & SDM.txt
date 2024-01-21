@@ -154,6 +154,7 @@ Git:
 3.Purpose: To track changes in code file
 4.Benifit:  It facilitates collaboration among team members and tracks code changes.
 5.Git new Repository: -"git init" for create new repository.
+                      -A Collection of code files & their complete history of changes.
                         
 
 
