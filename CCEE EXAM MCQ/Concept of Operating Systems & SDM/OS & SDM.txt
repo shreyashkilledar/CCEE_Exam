@@ -79,8 +79,8 @@ Now, a process requests 18 KB of memory. The operating system searches for the l
 Types Of Processes:
 1. *Parent Process
    *Child Process
-2. *ForeGround
-   *BackGround
+2. *ForeGround Process
+   *BackGround Process
 3. *Interactive
    *Non-Interactive
 4. *Zombie
