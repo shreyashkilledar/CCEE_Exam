@@ -56,7 +56,7 @@ Answers of Question Paper(OS)
 
 
 Imp:
-A)Contiguous Memory Allocation:
+#A)Contiguous Memory Allocation:
 1) First Fit
 The first-fit algorithm searches for the first free partition that is large enough to accommodate the process. The operating system starts searching from the beginning of the memory and allocates the first free partition that is large enough to fit the process.
 For example, suppose we have the following memory partitions:
@@ -75,7 +75,7 @@ For example, suppose we have the following memory partitions:
 | 10 KB | 20 KB | 15 KB | 25 KB | 30 KB |
 Now, a process requests 18 KB of memory. The operating system searches for the largest free partition, which is 30 KB. It allocates the process to that partition and keeps the remaining 12 KB as free memory.
 
-Types Of Processes:
+#Types Of Processes:
 1. *Parent Process
    *Child Process
 2. *ForeGround Process
@@ -85,6 +85,13 @@ Types Of Processes:
 4. *Zombie Process 
    *Orphan Process
    *Daemon Process
+
+#Exec() Family
+1.execv: Program arguments passed as an array of strings -->int execv( const char *path, char *const argv[] );
+2.execvp: Searches for the program name in the PATH environment  --> int execvp( const char *file, char *const argv[] );
+3.execl: Program arguments passed directly as a list 
+4.execlp: Searches for the program name in the PATH environment
+
 
 
 
