@@ -92,6 +92,10 @@ Now, a process requests 18 KB of memory. The operating system searches for the l
 3.execl: Program arguments passed directly as a list --> int execl( const char *path, const char *arg, ... );
 4.execlp: Searches for the program name in the PATH environment --> int execlp( const char *file, const char *arg, ... ); 
 
+#Schedular
+1.Long term ( Job Scheduler)
+2.Medium term ( swapping scheduler)
+3.Short term (CPU scheduler)
 
 
 
