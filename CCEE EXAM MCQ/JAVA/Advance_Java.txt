@@ -15,10 +15,41 @@ Answers of Previous Year Question Paper
 3. (C) Savepoint
 4. (D) getConnection(String url) throws SQLException
 5. (A) Idempotence
+6. (A)
 7. (C) @SpringBootTest
 8. (D) servlet filter
+9. 
+10.(B)
+11.(D)
+12.
 13.(A) First Level Cache
+14.
+15.
+16.
 17.(A) @JoinTable
+18.
+19.(B)
+20.
+21.(D)
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
 
 IMP:
 Web Container: Managing Security and access control for the application, managing servlets & JSP's
