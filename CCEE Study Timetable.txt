@@ -2,11 +2,11 @@
 
 22-01-2024 --> Web-Based Java Programming (Advance Java) [Exam date: 02-02-2024]
 
-23-01-2024 --> Database Technology (SQL) [Exam date: 01-02-2024]
+23-01-2024 --> Algorithm & Data Structure using Java (DSA) [Exam date: 30-01-2024]
 
 24-01-2024 --> Microsoft .NET Technologies (C#) [Exam date: 01-02-2024]
 
-25-01-2024 --> Algorithm & Data Structure using Java (DSA) [Exam date: 30-01-2024]
+25-01-2024 --> Database Technology (SQL) [Exam date: 01-02-2024]
 
 26-01-2024 --> Web Programming Technology (WPT) [Exam date: 30-01-2024]
 
