@@ -3,3 +3,4 @@
 2. Runtime Polymorphism (Function Overrinding)
 
 # Inheritance
+1. Single
