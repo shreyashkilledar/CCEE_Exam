@@ -7,3 +7,4 @@
 2. Multiple
 3. Multilevel
 4. Hybrid
+5. Heirarchical
