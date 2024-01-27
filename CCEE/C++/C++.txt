@@ -4,3 +4,4 @@
 
 # Inheritance
 1. Single
+2. Multiple
