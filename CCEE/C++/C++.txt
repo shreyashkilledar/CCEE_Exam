@@ -1,3 +1,3 @@
 # Polymorphism:
 1. Compile Time Polymorphism (Function OverLoading)
-2. Runtime
+2. Runtime Polymorphism
