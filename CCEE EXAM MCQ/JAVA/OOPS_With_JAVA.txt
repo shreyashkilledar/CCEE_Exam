@@ -13,8 +13,8 @@ Collection: 1.List: 1)ArrayList
                          Queue<String> q2 = new ArrayDeque();
                     Queue interface maintains the first-in-first-out order.In Deque, we can remove and add the elements from both the side.
 
-            A)Comparable:1)Single Sorting sequence 2)affects the original class 3)comparaeTo() 4)java.lang 5)Collections.sort(List)
-            B)Comparator:1)Multiple sorting sequences 2)does not affects the original class 3)comparaeTo() 4)java.lang 5)Collections.sort(List)
+            A)Comparable:1)Single Sorting sequence 2)affects the original class 3)compareTo() 4)java.lang 5)Collections.sort(List)
+            B)Comparator:1)Multiple sorting sequences 2)does not affects the original class 3)compare() 4)java.lang 5)Collections.sort(List)
             3.Set: 1)HashSet 
                    2)LinkedHashSet
                    3)TreeSet
