@@ -1,5 +1,5 @@
 Java is object oriented programming language.
-Collection: 1.List: 1)ArrayList 2)LinkedList 3)Vector 
+Collection: 1.List: 1)ArrayList 2)LinkedList 3)Vector:(insert, delete, search, sort, iterate, replace operations)
             2.Queue
             3.Set
             4.Map
