@@ -23,7 +23,7 @@ Collection: 1.List: 1)ArrayList
                       Set<data-type> s1 = new HashSet<data-type>();  
                    2)LinkedHashSet
                       Set<data-type> s2 = new LinkedHashSet<data-type>();
-                   3)TreeSet
+                   3)TreeSet: It is quite fast than others
                       Set<data-type> s3 = new TreeSet<data-type>(); 
                   
 
