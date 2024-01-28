@@ -15,4 +15,4 @@ Collection: 1.List: 1)ArrayList
             3.Set: 1)HashSet 
                    2)LinkedHashSet
                    3)TreeSet
-            4.Map
+            4.Map:HashTable, HashMap, LinkedHashMap&TreeMap
