@@ -20,8 +20,11 @@ Collection: 1.List: 1)ArrayList
             B)Comparator:1)Multiple sorting sequences 2)does not affects the original class 3)compare() 4)java.lang 5)Collections.sort(List, Comparator)
 
             3.Set: 1)HashSet 
+                      Set<data-type> s1 = new HashSet<data-type>();  
                    2)LinkedHashSet
+                      Set<data-type> s2 = new LinkedHashSet<data-type>();
                    3)TreeSet
+                      Set<data-type> s3 = new TreeSet<data-type>(); 
 
             4.Map: 1)HashTable
                    2)HashMap
