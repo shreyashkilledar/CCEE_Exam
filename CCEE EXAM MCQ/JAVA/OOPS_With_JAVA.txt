@@ -1,4 +1,5 @@
 Java is object oriented programming language.
+
 Collection: 1.List: 1)ArrayList  
                         List <data-type> list1= new ArrayList();  
                     2)LinkedList
@@ -7,6 +8,7 @@ Collection: 1.List: 1)ArrayList
                         List <data-type> list3 = new Vector(); 
                     Vector & ArrayList is same and use dynamic array to store the elements.
                     Linkedlist uses Doubly linked list to store the elements.
+
             2.Queue: 1)PriorityQueue
                          Queue<String> q1 = new PriorityQueue(); 
                      2)ArrayDequeue
@@ -14,10 +16,13 @@ Collection: 1.List: 1)ArrayList
                     Queue interface maintains the first-in-first-out order.In Deque, we can remove and add the elements from both the side.
 
             A)Comparable:1)Single Sorting sequence 2)affects the original class 3)compareTo() 4)java.lang 5)Collections.sort(List)
+
             B)Comparator:1)Multiple sorting sequences 2)does not affects the original class 3)compare() 4)java.lang 5)Collections.sort(List, Comparator)
+
             3.Set: 1)HashSet 
                    2)LinkedHashSet
                    3)TreeSet
+
             4.Map: 1)HashTable
                    2)HashMap
                    3)LinkedHashMap
