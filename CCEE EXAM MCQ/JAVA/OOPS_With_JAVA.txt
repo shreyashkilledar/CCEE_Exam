@@ -1,1 +1,5 @@
 Java is object oriented programming language.
+Collection: 1.List
+            2.Queue
+            3.Set
+            4.Map
