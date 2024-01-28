@@ -7,6 +7,9 @@ Collection: 1.List: 1)ArrayList
                         List <data-type> list3 = new Vector(); 
                     Vector & ArrayList is same and use dynamic array to store the elements.
                     Linkedlist uses Doubly linked list to store the elements.
-            2.Queue
+            2.Queue: 1)PriorityQueue
+                         Queue<String> q1 = new PriorityQueue(); 
+                     2)ArrayDequeue
+                         Queue<String> q2 = new ArrayDeque();
             3.Set
             4.Map
