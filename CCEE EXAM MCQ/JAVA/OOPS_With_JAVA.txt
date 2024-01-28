@@ -13,5 +13,6 @@ Collection: 1.List: 1)ArrayList
                          Queue<String> q2 = new ArrayDeque();
                     Queue interface maintains the first-in-first-out order.In Deque, we can remove and add the elements from both the side.
             3.Set: 1)HashSet 
-                   2)LinkedHashSetTreeSet
+                   2)LinkedHashSet
+                   3)TreeSet
             4.Map
