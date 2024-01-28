@@ -21,13 +21,14 @@ Collection: 1.List: 1)ArrayList
 
             3.Set: 1)HashSet: It uses hash table to store the elements. It contains unique items.
                       Set<data-type> s1 = new HashSet<data-type>();  
-                   2)LinkedHashSet
+                   2)LinkedHashSet: Insertion order
                       Set<data-type> s2 = new LinkedHashSet<data-type>();
                    3)TreeSet: It is quite fast than others
                       Set<data-type> s3 = new TreeSet<data-type>(); 
                   
 
-            4.Map: 1)HashTable
+            4.Map: Map Provides Key-Value pair
+                   1)HashTable
                    2)HashMap:HashMap is the implementation of Map, but it doesn't maintain any order.
                    3)LinkedHashMap:LinkedHashMap is the implementation of Map. It inherits HashMap class. It maintains insertion order.
                    4)TreeMap:TreeMap is the implementation of Map and SortedMap. It maintains ascending order.
