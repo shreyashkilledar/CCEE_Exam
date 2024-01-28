@@ -28,7 +28,7 @@ Collection: 1.List: 1)ArrayList
                   
 
             4.Map: Map Provides Key-Value pair
-                   1)HashTable
+                   1)HashTable:collection class is synchronized and does not allow null keys or values
                    2)HashMap:HashMap is the implementation of Map, but it doesn't maintain any order.
                    3)LinkedHashMap:LinkedHashMap is the implementation of Map. It inherits HashMap class. It maintains insertion order.
                    4)TreeMap:TreeMap is the implementation of Map and SortedMap. It maintains ascending order.
