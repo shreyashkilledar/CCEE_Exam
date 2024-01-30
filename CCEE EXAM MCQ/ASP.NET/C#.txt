@@ -9,5 +9,5 @@ C#
   iv)// used for single line comment
   v)/* */ used for multi-line comment
 6)data types in C#: int(4), long(8), float(4), double(8), char(2), string(2 bytes per character), bool(1), const
-  declaration of datatypes: int myNum = 100000; long myNum = 15000000000L; float myNum = 5.75F; double myNum = 19.99D;
+  declaration of datatypes: int myNum = 100000; long myNum = 15000000000L; float myNum = 5.75F; double myNum = 19.99D; bool isCSharpFun = true; char myGrade = 'B'; string greeting = "Hello World";
 7)C# is case sensitive
