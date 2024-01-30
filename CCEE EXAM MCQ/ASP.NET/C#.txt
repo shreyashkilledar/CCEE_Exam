@@ -15,3 +15,14 @@ C#
                 B)Explicit Casting (manually) - converting a larger type to a smaller size type (double -> float -> long -> int -> char)
   *It is also possible to convert data types explicitly by using built-in methods, such as [Convert.ToBoolean, Convert.ToDouble, Convert.ToString, Convert.ToInt32 (int) and Convert.ToInt64 (long)]
 9)User Input: (1)Console.WriteLine() is used to output (print) values (2)Console.ReadLine() to get user input.
+10)Operators: 
+    A)Arithmetic 
+        +	Addition, -	Subtraction, *	Multiplication, /	Division, %	Modulus	(Remainder after division), ++	Increment	(+1), --	Decrement	(+1)	
+    B)Assignment
+       =, +=, -=, *=, /=, %=, &=, |=, ^=, >>=, <<=
+    C)Comparison
+        ==	Equal to, !=	Not equal, >	Greater than, <	Less than, >=	Greater than or equal to, <=	Less than or equal to
+    D)Logical
+        && 	Logical and	Returns True if both statements are true	x < 5 &&  x < 10	
+        || 	Logical or	Returns True if one of the statements is true	x < 5 || x < 4	
+        !	Logical not
