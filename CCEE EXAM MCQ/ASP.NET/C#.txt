@@ -3,4 +3,9 @@ C#
 2)The first version was released in 2002 and latest version is C#-12 released in 2023
 3)Used for: Mobile applications, Desktop applications, Web applications, Web services, Web sites, Games, VR, Database applications
 4)In C# an IDE (Integrated Development Environment) is used to edit and compile code.
-5)
+5)i)C# ignores white space
+  ii)using System means that we can use classes from the System namespace.
+  iii)curly braces {} marks the beginning and the end of a block of code.
+  iv)// used for single line comment
+  v)/* */ used for multi-line comment
+6)data types in C#: int, double, char, string, bool, const
