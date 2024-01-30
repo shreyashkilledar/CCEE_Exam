@@ -45,3 +45,8 @@ C#
       1. \'		Single quote
       2. \"		Double quote
       3. \\		Backslash
+      4. \n	 New Line	
+      5.  \t	Tab	
+      6. \b	 Backspace
+13) Boolean: (1)Yes/No  (2)On/Off  (3)True/False
+
