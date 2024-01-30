@@ -32,3 +32,16 @@ C#
   C) Math.Sqrt(x) : method returns the square root of x
   D) Math.Abs(x) : method returns the absolute (positive) value of x
   E) Math.Round() : rounds a number to the nearest whole number
+12) C# String
+  A) Length: .Length is used
+  B) uppercase: .ToUpper() is used
+  C) lowercase: .ToLower() is used
+  D) concat: + is used (Note: number is added & string is concat)
+  E) interpolation: $ is used
+  F) Access string: You can access the characters in a string by referring to its index number inside square brackets []
+      1. [1] is showing the character at 1st place
+      2. IndexOf("e") is showing the index of that character
+  G) special character
+      1. \'		Single quote
+      2. \"		Double quote
+      3. \\		Backslash
