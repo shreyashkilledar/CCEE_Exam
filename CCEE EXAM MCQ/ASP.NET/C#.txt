@@ -9,3 +9,4 @@ C#
   iv)// used for single line comment
   v)/* */ used for multi-line comment
 6)data types in C#: int, double, char, string, bool, const
+7)C# is case sensitive
