@@ -1,2 +1,4 @@
 C#
 1)It is an OOP language produced by Microsoft that run on .NET framework
+2)The first version was released in 2002 and latest version is C#-12 released in 2023
+3)
