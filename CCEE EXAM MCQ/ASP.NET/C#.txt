@@ -10,4 +10,7 @@ C#
   v)/* */ used for multi-line comment
 6)data types in C#: int(4), long(8), float(4), double(8), char(2), string(2 bytes per character), bool(1), const
   declaration of datatypes: int myNum = 100000; long myNum = 15000000000L; float myNum = 5.75F; double myNum = 19.99D; bool isCSharpFun = true; char myGrade = 'B'; string greeting = "Hello World";
-7)C# is case sensitive
+7)C# is case sensitive.
+8)Type casting: A)Implicit Casting (automatically) - converting a smaller type to a larger type size(char -> int -> long -> float -> double)
+                B)Explicit Casting (manually) - converting a larger type to a smaller size type (double -> float -> long -> int -> char)
+  *It is also possible to convert data types explicitly by using built-in methods, such as [Convert.ToBoolean, Convert.ToDouble, Convert.ToString, Convert.ToInt32 (int) and Convert.ToInt64 (long)]
