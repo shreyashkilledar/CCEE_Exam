@@ -19,6 +19,13 @@ Answers
 28.A
 30.B
 31.B
+32.A
+34.A
+35.A
+
+
+
+
 
 
 
@@ -37,6 +44,9 @@ E)TCL-> COMMIT, SAVEPOINT, ROLLBACK, SET TRANSACTION, SET CONSTRAINT
 
 SQL Storage Engines
 InnoDB, MyISAM, MEMORY, MERGE, EXAMPLE, ARCHIEVE, CSV, BLACKHOLE, FEDERATED
+
+NOSQL Databases
+CASSANDRA, HBASE, mongoDB, HYPERTABLE, redis, OrientDB, couchDB, amazon dynomoDB, neo4j, RAVENDB, etc
 
 
 
