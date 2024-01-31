@@ -1,3 +1,13 @@
+Answers 
+1.
+2.D
+
+
+
+
+
+
+
 SQL Commands
 A)DCL-> GRANT and REVOKE
 B)DDL-> CREATE, DROP, ALTER, TRUNCATE 
