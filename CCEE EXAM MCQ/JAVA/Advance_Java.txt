@@ -85,7 +85,6 @@ jsp:attribute
 jsp:body
 jsp:text
 jsp:param
-jsp:attribute
 jsp:output
 
 
