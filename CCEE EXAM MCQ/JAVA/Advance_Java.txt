@@ -103,9 +103,10 @@ DD= Deployment Descriptor
 jar= Java Archieve
 war= web Application Archieve (It contains both static content & Java classes and resources)(files places In the WEB-INF directory)
 
-SessionFactory sf= new Configuration().configure().buildSessionFactory();
-Session session= sf.OpenSession();
-Transaction tr= session.begintransaction();
-session.save();
-tr.commit();
-session.close();
+
+    SessionFactory sf= new Configuration().configure().buildSessionFactory();
+		Session session= sf.openSession();
+		Transaction tr= session.beginTransaction();
+		session.save(e1);
+		tr.commit();
+		session.close();
