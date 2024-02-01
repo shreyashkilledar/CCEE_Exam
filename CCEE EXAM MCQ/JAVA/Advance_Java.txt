@@ -23,7 +23,6 @@ Answers of Previous Year Question Paper
 17.(A) @JoinTable
 18.(D)
 19.(B)
-20.
 21.(D)
 22.(B)
 23.(A)
