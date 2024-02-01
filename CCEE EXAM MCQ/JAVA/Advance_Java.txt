@@ -105,3 +105,6 @@ war= web Application Archieve (It contains both static content & Java classes an
 
 SessionFactory sf= new Configuration().configure().buildSessionFactory();
 Session session= sf.OpenSession();
+Transaction tr= session.begintransaction();
+
+session.save();
