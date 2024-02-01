@@ -108,3 +108,4 @@ Session session= sf.OpenSession();
 Transaction tr= session.begintransaction();
 session.save();
 tr.commit();
+session.close();
