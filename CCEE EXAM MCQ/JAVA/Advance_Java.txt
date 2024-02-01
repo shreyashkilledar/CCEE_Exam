@@ -104,4 +104,4 @@ jar= Java Archieve
 war= web Application Archieve (It contains both static content & Java classes and resources)(files places In the WEB-INF directory)
 
 SessionFactory sf= new Configuration().configure().buildSessionFactory();
-
+Session session= sf.OpenSession();
