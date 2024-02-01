@@ -17,14 +17,9 @@ Answers of Previous Year Question Paper
 6. (A)
 7. (C) @SpringBootTest
 8. (D) servlet filter
-9. 
 10.(B)
 11.(D)
-12.
 13.(A) First Level Cache
-14.
-15.
-16.
 17.(A) @JoinTable
 18.(D)
 19.(B)
