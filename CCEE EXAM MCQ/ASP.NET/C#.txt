@@ -49,7 +49,7 @@ C#
       5.  \t	Tab	
       6. \b	 Backspace
 13) Boolean: (1)Yes/No  (2)On/Off  (3)True/False
-14) Polymorphism 
+14) Polymorphism means 
 
 
 
