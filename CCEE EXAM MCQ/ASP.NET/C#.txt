@@ -49,8 +49,9 @@ C#
       5.  \t	Tab	
       6. \b	 Backspace
 13) Boolean: (1)Yes/No  (2)On/Off  (3)True/False
-14) Polymorphism means "many forms"
-15) Inheritance lets us inherit fields and methods from another class
+14) Polymorphism means "many forms".
+15) Inheritance lets us inherit fields and methods from another class.
+16) Polymorphism uses those methods to perform different tasks.
 
 
 
