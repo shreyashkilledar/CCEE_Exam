@@ -50,7 +50,7 @@ C#
       6. \b	 Backspace
 13) Boolean: (1)Yes/No  (2)On/Off  (3)True/False
 14) Polymorphism means "many forms"
-15) Inheritance lets us inherit fields and 
+15) Inheritance lets us inherit fields and methods 
 
 
 
