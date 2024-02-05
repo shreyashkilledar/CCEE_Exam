@@ -52,6 +52,6 @@ C#
 14) Polymorphism means "many forms".
 15) Inheritance lets us inherit fields and methods from another class.
 16) Polymorphism uses those methods to perform different tasks.
-
+17) think of a base class called 
 
 
