@@ -6,8 +6,7 @@ Collection: 1.List: 1)ArrayList
                         List <data-type> list2 = new LinkedList();  
                     3)Vector:(insert, delete, search, sort, iterate, replace operations)
                         List <data-type> list3 = new Vector(); 
-                    Vector & ArrayList is same and use dynamic array to store the elements.
-                    Linkedlist uses Doubly linked list to store the elements.
+                    
 
             2.Queue: 1)PriorityQueue
                          Queue<String> q1 = new PriorityQueue(); 
