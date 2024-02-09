@@ -35,12 +35,7 @@ Collection: 1.List: 1)ArrayList
 
 
 Multithreading: 1) Thread: It is a class. It has multiple methods including start() and run(). Each thread creates a unique object. More memory required. 
-                2) Runnable Interface: Runnable is a functional interface. It has only abstract method run(). Multiple threads share the same objects.Less memory required. 
-                3) sleep(): It sleeps a thread for the specified amount of time. (static void)
-                4) join():	It waits for a thread to die. (void)
-                5) yield():	It causes the currently executing thread object to pause and allow other threads to execute temporarily. (static void)
-                6) getPriority()	It returns the priority of the thread. (int)
-                7) setPriority()	It changes the priority of the thread. (void)
+                
 
 Synchronization: Multi-threaded java programs. Single thread at a time. It prevents race condition and data corruption.
 
