@@ -59,5 +59,6 @@ DOTNET
 1).NET is a developer platform made up of tools, programming languages, and libraries for building many different types of applications.
 2).NET Framework is the execution and development environment for .NET applications.
 3) It supports running websites, services, desktop apps, and more on Windows.
-4)
+4)The heart of the .NET Framework is the CLR
+
 
