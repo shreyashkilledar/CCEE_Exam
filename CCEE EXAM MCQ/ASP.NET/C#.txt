@@ -56,6 +56,6 @@ C#
 
 
 DOTNET
-1)It is a developer platform.
+1).NET is a developer platform made up of tools, programming languages, and libraries for building many different types of applications.
 2)
 
