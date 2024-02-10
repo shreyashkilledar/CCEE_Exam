@@ -63,3 +63,4 @@ DOTNET
 5)It is a runtime environment that executes MSIL
 6)CLR is present in every .NET framework version
 7).NET applications are deployed as assemblies, which can be a single executable or a collection of components and form a logical unit of functionality
+8)Types: 1.Private 2.Shared 3.Satellite
