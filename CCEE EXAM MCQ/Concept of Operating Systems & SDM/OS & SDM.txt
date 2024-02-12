@@ -11,6 +11,16 @@
 *Interrupt & System Call- A system call is a call from user mode to kernel mode
 
 2.Intro to Linux
+*Working basics of file system- Linux file system is generally a built-in layer of a Linux operating system used to handle the data management of the storage. It helps to arrange the file on the disk storage. It manages the file name, file size, creation date, and much more information about a file.
+*Commands- ls: List the contents of a directory.
+           cp: Copy a file from one location to another
+           rm: Remove a file or directory from the system
+           rmdir: remove directory
+           mkdir: make directory
+           cat filename: View content
+           touch filename: create new file
+         
+           
 
 
 
