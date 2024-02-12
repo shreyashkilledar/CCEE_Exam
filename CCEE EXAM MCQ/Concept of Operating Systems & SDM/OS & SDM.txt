@@ -1,3 +1,4 @@
+1.Intro to OS
 *Different components of OS- process, file, network, main memory, secondary storage, I/O device, security, command interpreter system
 *Basic computer organization required for OS- processing unit, memory unit, and input-output devices
 *Mobile OS- iOS & Android
@@ -8,6 +9,9 @@
 *KERNEL MODE- Kernel mode is also known as the master mode, privileged mode, or system mode,  all processes share a single virtual address space.
  USER MODE-  User mode is also known as the unprivileged mode, restricted mode, or slave mode,  all processes get separate virtual address space. 
 *Interrupt & System Call- A system call is a call from user mode to kernel mode
+
+2.Intro to Linux
+
 
 
 
