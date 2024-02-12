@@ -34,8 +34,10 @@
 *Process: It is a basically program execution.
  Preemtive: Preemptive scheduling is a method that may be used when a process switches from a running state to a ready state or from a waiting state to a ready state.
  Non-Preemtive: Non-preemptive scheduling is a method that may be used when a process terminates or switches from a running to a waiting state.
-*Process Management: Process management refers to the activities involved in managing the execution of multiple processes in an operating system. It includes creating, scheduling, and terminating processes, as well as allocating system resources such as CPU time, memory, and I/O devices.
+*Process Management: Process management refers to the activities involved in managing the execution of multiple processes in an operating system. It includes creating, scheduling, and terminating processes, as 
+    well as allocating system resources such as CPU time, memory, and I/O devices.
  Process Life cycle: The different states of the process are start, ready, running, waiting, and terminated.
+*
 
 
 
