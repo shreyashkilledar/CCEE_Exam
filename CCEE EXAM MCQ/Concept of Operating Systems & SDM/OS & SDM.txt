@@ -27,6 +27,9 @@
 
 3.Shell Programming
 *Shell- SHELL is a program which provides the interface between the user and an operating system. When the user logs in OS starts a shell for user.
+ Types- Bourne Shell (sh), GNU Bourne-Again Shell (bash), C Shell (csh), Korn Shell (ksh), Z Shell (zsh)
+*echo- to dissplay massege or variable on the screen.
+
          
            
 
