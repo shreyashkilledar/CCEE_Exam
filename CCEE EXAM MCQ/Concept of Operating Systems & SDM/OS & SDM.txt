@@ -1,5 +1,7 @@
 *Different components of OS- process, file, network, main memory, secondary storage, I/O device, security, command interpreter system
 *Basic computer organization required for OS- processing unit, memory unit, and input-output devices
+*Mobile OS- iOS & Android
+ Embedded system OS- computer systems in cars, traffic lights, digital televisions, ATMs, airplane controls, point of sale (PoS) terminals, digital cameras, GPS navigation systems, elevators and Smart meters.
 
 
 
