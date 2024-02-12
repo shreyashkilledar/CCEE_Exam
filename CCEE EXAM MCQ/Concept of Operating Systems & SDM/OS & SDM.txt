@@ -37,7 +37,8 @@
 *Process Management: Process management refers to the activities involved in managing the execution of multiple processes in an operating system. It includes creating, scheduling, and terminating processes, as 
     well as allocating system resources such as CPU time, memory, and I/O devices.
  Process Life cycle: The different states of the process are start, ready, running, waiting, and terminated.
-*
+*Scheduler: The scheduler's purpose is to implement the virtual machine so that each process appears to be running on its own computer to the user.
+
 
 
 
