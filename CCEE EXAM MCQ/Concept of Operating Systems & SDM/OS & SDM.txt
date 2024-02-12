@@ -1,3 +1,29 @@
+*Different components of OS- process, file, network, main memory, secondary storage, I/O device, security, command interpreter system
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 A) Operating System Topics
   1. Introduction to OS
   2. Introduction to Linux
