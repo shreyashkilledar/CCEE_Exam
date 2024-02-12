@@ -5,7 +5,9 @@
  Real time OS- airline traffic control systems, Command Control Systems, airline reservation systems, Heart pacemakers, Network Multimedia Systems, robots
  desktop OS server machine OS- Windows, macOS, Linux
 *Functions of OS- Memory Management, Process Management, Device Management, Security, Error Detection, etc
-
+*KERNEL MODE- Kernel mode is also known as the master mode, privileged mode, or system mode,  all processes share a single virtual address space.
+ USER MODE-  User mode is also known as the unprivileged mode, restricted mode, or slave mode,  all processes get separate virtual address space. 
+*
 
 
 
