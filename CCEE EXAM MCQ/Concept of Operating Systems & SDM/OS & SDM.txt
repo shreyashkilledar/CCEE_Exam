@@ -7,7 +7,7 @@
 *Functions of OS- Memory Management, Process Management, Device Management, Security, Error Detection, etc
 *KERNEL MODE- Kernel mode is also known as the master mode, privileged mode, or system mode,  all processes share a single virtual address space.
  USER MODE-  User mode is also known as the unprivileged mode, restricted mode, or slave mode,  all processes get separate virtual address space. 
-*
+*Interrupt & System Call- A system call is a call from user mode to kernel mode
 
 
 
