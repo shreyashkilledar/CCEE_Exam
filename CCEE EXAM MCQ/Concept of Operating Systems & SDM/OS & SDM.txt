@@ -2,6 +2,9 @@
 *Basic computer organization required for OS- processing unit, memory unit, and input-output devices
 *Mobile OS- iOS & Android
  Embedded system OS- computer systems in cars, traffic lights, digital televisions, ATMs, airplane controls, point of sale (PoS) terminals, digital cameras, GPS navigation systems, elevators and Smart meters.
+ Real time OS- airline traffic control systems, Command Control Systems, airline reservation systems, Heart pacemakers, Network Multimedia Systems, robots
+ desktop OS server machine OS- Windows, macOS, Linux
+*Functions of OS- Memory Management, Process Management, Device Management, Security, Error Detection, etc
 
 
 
