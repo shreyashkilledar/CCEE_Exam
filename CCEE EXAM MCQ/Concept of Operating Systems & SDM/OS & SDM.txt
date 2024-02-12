@@ -39,6 +39,13 @@
  Process Life cycle: The different states of the process are start, ready, running, waiting, and terminated.
 *Scheduler: The scheduler's purpose is to implement the virtual machine so that each process appears to be running on its own computer to the user.
 
+8.Virtual Memory
+*Virtual memory is a common technique used in a computer's operating system (OS). Virtual memory uses both hardware and software to enable a computer to compensate for physical memory shortages, temporarily transferring data from random access memory (RAM) to disk storage.
+*Demand paging: Demand paging is a technique used in virtual memory systems where pages enter main memory only when requested or needed by the CPU. In demand paging, the operating system loads only the necessary pages of a program into memory at runtime, instead of loading the entire program into memory at the start.
+*Page Fault: A page fault occurs when a program attempts to access a block of memory that is not stored in the physical memory, or RAM. The fault notifies the operating system that it must locate the data in virtual memory, then transfer it from the storage device, such as an HDD or SSD, to the system RAM
+*Page Replacement algorithm: FIFO, LRU(Least Recentely used), MRU(Most Recentely Used)
+
+
 
 
 
