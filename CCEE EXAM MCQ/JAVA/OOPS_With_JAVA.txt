@@ -54,4 +54,15 @@ wildcards- it is question marks'?', upper bounded: List, Lower bounded: Super
 Reflection: examining or Modifying
             It allows access to private fields and methods
 
+-String is immutable, 
+-Stringbuffer is mutable, threadsafe, synchronised, java 1.0
+-Stringbuilder is mutable, non threadsafe, non synchronised, 1.5
+-String pool is storage area in java heap
+
+
+-inputstream- read data from a source
+-outputstream- write data to a destination
+
+-serialization- object to stream
+-deserialization- stream to object
 
