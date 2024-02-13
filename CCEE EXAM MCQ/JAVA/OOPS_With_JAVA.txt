@@ -66,3 +66,10 @@ Reflection: examining or Modifying
 -serialization- object to stream
 -deserialization- stream to object
 
+-Shallow copy= a copy of the original object is stored and only the reference address is finally copied. 
+-Deep copy= the copy of the original object and the repetitive copies both are stored.
+
+-string to date using parse()
+-date to string using format()
+
+-access specifiers- public, private, protected, default
