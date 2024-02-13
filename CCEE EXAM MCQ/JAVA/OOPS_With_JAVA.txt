@@ -49,7 +49,9 @@ wait()- pause the execution of a thread until another thread signals that it can
 notify()- wakes up only one thread waiting on the object and that thread starts execution.
 notifyall()- wakes up all threads that are waiting on this object's monitor.
 
-Reflection: Analyzing & Modifying
+wildcards- it is question marks'?', upper bounded: List, Lower bounded: Super
+
+Reflection: examining or Modifying
             It allows access to private fields and methods
 
 
