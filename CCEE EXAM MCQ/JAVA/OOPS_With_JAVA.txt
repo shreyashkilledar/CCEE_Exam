@@ -25,7 +25,7 @@ Collection: 1.List: 1)ArrayList
                       Set<data-type> s2 = new LinkedHashSet<data-type>();
                    3)TreeSet: It is quite fast than others and sorted order
                       Set<data-type> s3 = new TreeSet<data-type>(); 
-                   4)BackedSet Collection
+                   4)BackedSet Collection: Share same data with other collection, but different views.
                   
 
             4.Map: Map Provides Key-Value pair
