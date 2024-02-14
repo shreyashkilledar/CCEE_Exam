@@ -1,0 +1,15 @@
+1.
+*.NET- It is a developer platform made up of tools, programming languages, and libraries for building many different types of applications.
+*.NET Framework- .NET Framework is the execution and development environment for .NET applications.
+* IL(Intermidiate Language)- A low-level assembly language, always interpreted by the .NET runtime, Platform independence and easy portability
+  JIT(Just-In-Time)- converting IL code into machine code or dynamically compile IL code into machine code (Pre-JIT= entire code into native code at one stretch., Econo-JIT=It compiles the IL code bit-by-bit,, Normal-JIT=compiles code only as it is)
+*Assembly- (.exe & .dll)files, A compiled unit of code that contains metadata and IL code
+*CLR(Common Language Runtime)- Heart of .NET framework, runtime environment that executes MSIL code, CLR is present in every .NET framework version,
+ CLS- subset of CTS, CLS enables cross-language integration or Interoperability.
+ CTS- CTS is responsible for understanding all the data type systems of .NET programming languages and converting them into CLR understandable format which will be a common format. 
+ Garbage Collector-  GC.Collect(), Code that is run under the garbage collection system is 'managed code'
+ Memory Management- stack for store value, Heap for store objects
+ App-Domain- provide isolation, unloading, and security boundaries for executing managed code
+*Security- (CAS- Code Access Security)- 
+  
+
