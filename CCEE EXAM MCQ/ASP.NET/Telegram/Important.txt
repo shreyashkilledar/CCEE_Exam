@@ -14,6 +14,7 @@ Some Answers I Found
 8. B(Switch)
 10.C
 11.D(All-Session,Application,ViewBag) 
+12.D
 13.D(Extension)
 14.B(Request.Form)
 15.B(Name Collision)
