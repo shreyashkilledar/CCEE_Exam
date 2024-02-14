@@ -55,8 +55,8 @@ Reflection: examining or Modifying
             It allows access to private fields and methods
 
 -String is immutable, 
--Stringbuffer is mutable, threadsafe, synchronised, java 1.0
--Stringbuilder is mutable, non threadsafe, non synchronised, 1.5
+-Stringbuffer is mutable, threadsafe, synchronised, less efficient, java 1.0
+-Stringbuilder is mutable, non threadsafe, non synchronised, more efficient,  1.5
 -String pool is storage area in java heap
 
 
