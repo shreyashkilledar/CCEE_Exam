@@ -8,6 +8,7 @@ Latest Version of ASP.NET Core = Version (8.0.1)
 Some Answers I Found
 
 1. C(Error)
+4.A
 5. B(CLS(Common Language Specification))
 6. C(Operator)
 7. A(1,2,3,4,5)
