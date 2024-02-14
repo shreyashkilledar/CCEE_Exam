@@ -17,7 +17,7 @@ C#
 9)User Input: (1)Console.WriteLine() is used to output (print) values (2)Console.ReadLine() to get user input.
 10)Operators: 
     A)Arithmetic 
-        +	Addition, -	Subtraction, *	Multiplication, /	Division, %	Modulus	(Remainder after division), ++	Increment	(+1), --	Decrement	(+1)	
+        +	Addition, -	Subtraction, *	Multiplication, /	Division, %	Modulus	(Remainder after division), ++	Increment	(+1), --	Decrement	(-1)	
     B)Assignment
        =, +=, -=, *=, /=, %=, &=, |=, ^=, >>=, <<=
     C)Comparison
