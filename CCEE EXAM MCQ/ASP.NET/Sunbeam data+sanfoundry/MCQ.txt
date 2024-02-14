@@ -400,7 +400,7 @@ How many navigation controls are in ASP.NET?
 3
 4
 5
-Answer: B) 3
+Answer: B) 3 (SiteMapPath, Menu Control, TreeView.)
 
 
 Can an ASP.Net web application run without web.config file?
