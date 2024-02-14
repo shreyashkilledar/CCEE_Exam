@@ -19,6 +19,7 @@ Some Answers I Found
 16.C(Security Contract)
 17.A
 18.B(Dynamic)
+19.D
 20.B
 21.C
 22.A
