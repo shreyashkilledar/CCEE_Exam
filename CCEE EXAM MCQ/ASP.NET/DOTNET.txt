@@ -10,6 +10,53 @@
  Garbage Collector-  GC.Collect(), Code that is run under the garbage collection system is 'managed code'
  Memory Management- stack for store value, Heap for store objects
  App-Domain- provide isolation, unloading, and security boundaries for executing managed code
-*Security- (CAS- Code Access Security)- 
-  
+*Security- (CAS- Code Access Security)-  to prevent unauthorized code from performing harmful actions.
+
+2.
+*.NET Core- cross-platform and new apps and services, (Windows, macOS, Linux)
+ .NET Framework- for legacy apps, (Windows only)
+ Xamarin- Mobile apps only (Android, iOS, macOS)
+*Versions-  .NET Framework 1.0 is the first
+            ASP.NET Core= 5.0
+            WPF & WCF= 3.0
+            Entity Framework= 3.5
+            Recent .NET Core= 6.0
+*Managed Code- Code that is executed by the (CLR), C# and VB.NET language is used, Platform independence and automatic memory management and garbage collection 
+ Unmanaged Code-  Code that is directly executed by the CPU without any runtime environment, C++ used, 
+*Intro of VS code- Lightweight, cross platform, (run on all OS), support many languages, Microsoft Visual Studio 2019 only runs on Windows.
+*ILDASM(IL Disassembler)- To decompile .NET assemblies into human-readable IL code, (.exe & .dll files), allows inspecting the IL code
+
+3.
+DataTypes- ValueType(Simple(int, char, boolean, float, etc), Enum, struct, nullable), ReferenceType(Class, Interface, Array, Delegate)
+Boxing-  Value type is converted to object type
+Unboxing-  Object type is converted to a value type
+Access Specifier- public, private, protected, internal
+Method Overloading- Same name with different signature  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
