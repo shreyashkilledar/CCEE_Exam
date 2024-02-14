@@ -31,6 +31,7 @@ Some Answers I Found
 28.C
 30.B
 31.A
+33.B
 34.B
 35.C
 36.D
