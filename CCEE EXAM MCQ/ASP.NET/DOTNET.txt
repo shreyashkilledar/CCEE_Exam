@@ -42,6 +42,16 @@ Access Specifier- public, private, protected, internal
 Method Overloading- Same name with different signature  
 
 
+12. 
+*Thread Start: Thread.Start()-Running.[Method]
+*Parametertized Thread start- [Delegate]
+*Thread pool-[Class]
+*Lock: Only One thread at a time
+*Monitor: Provides more control over the synchronization of various threads trying to access the same lock of code.
+
+
+
+
 13-19(100 Questions)
 *ASP.NET- It is a server-side technology used for developing dynamic websites and web applications. It is the latest version of Active Server Pages which Microsoft developed for building dynamic applications.
           The first version of ASP.NET was released in 2002. It helps to produce data-driven, interactive web applications on the internet.
