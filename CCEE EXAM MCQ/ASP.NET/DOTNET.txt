@@ -34,6 +34,18 @@ Access Specifier- public, private, protected, internal
 Method Overloading- Same name with different signature  
 
 
+20.
+Localization in MVC: It is the process of adapting software to meet the requirements of local markets and different languages.
+Deploying: Enabling IIS(Internet Information Services) and required IIS components on Windows 10
+
+21.
+Web API(Application programming Interface)- It is a set of rules that define how applications or devices can connect to and communicate with each other.
+                                            Used to access service data in web applications, mobile apps and other external devices to build web services.
+                                            Used to create RESTful(Representational State Transfer) web services, which is an architectural style for networked hypermedia applications.
+                                            Lightweight, maintainable, and scalable, and support limited bandwidth.
+                                            Create simple HTTP web Service & supports XML, JSON, etc..
+
+
 
 
 
