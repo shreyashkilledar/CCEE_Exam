@@ -39,7 +39,7 @@ Method Overloading- Same name with different signature
           The first version of ASP.NET was released in 2002. It helps to produce data-driven, interactive web applications on the internet.
 *ASP.NET MVC- ASP.NET MVC is an open-source software used to develop dynamic websites and applications on the .Net framework by combining the features of MVC. MVC is a pattern used to design user interfaces,                   data, and application logic to achieve separation of concerns.It helps applications to reduce their complexity and makes them more accessible in coding, debugging, and testing. ASP.NET MVC was 
               first released in 2007 by Microsoft with the existing ASP.NET features.
-*MVC- Model View Controller
+*MVC- Model View Controller(making the application more maintainable and testable)
  Model- It represents the shape of the data. It also stores data and its related logic. Model is also responsible for the response to the request from the view and controller and updates itself. 
  View- It is a user interface, which displays model data to the user and enables them to modify it. It also represents the present data in the form of charts, diagrams, and tables.
  Controller- It is a part of the application which handles the user's request and user interaction. The controller transfers a command to the model to update itself. It also manages the HTTP requests raised by 
@@ -51,9 +51,14 @@ Method Overloading- Same name with different signature
              MVC provides separate testing for classes and objects
              avoid complexity 
              support for test-driven development for the applications
-*States Management Techniques: Cookies, Query string, Session state, State management, Hidden field, Application state, View state, Control state, Profile Properties, ViewState, Cache
+*States Management Techniques: Server Side= Application, Session, Profile, Cache
+                               Client Side= View, Control, Hidden, Cookies
+
 *CONTROLLERS: To handle user input and interact with model and view.
  ACTION: It is a method in a controller that handles a user request and returns a response, Actions are explicitly mapped to URLs in "web.config" file
+          web.config= app level configuration
+          global.asax= app level event
+          package.config= managed by NuGet
 
 
 
