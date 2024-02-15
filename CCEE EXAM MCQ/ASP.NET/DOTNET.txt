@@ -35,17 +35,20 @@ Method Overloading- Same name with different signature
 
 
 20.
-Localization in MVC: It is the process of adapting software to meet the requirements of local markets and different languages.
-Deploying: Enabling IIS(Internet Information Services) and required IIS components on Windows 10
+*Localization in MVC: It is the process of adapting software to meet the requirements of local markets and different languages.
+*Deploying: Enabling IIS(Internet Information Services) and required IIS components on Windows 10
 
 21.
-Web API(Application programming Interface)- It is a set of rules that define how applications or devices can connect to and communicate with each other.
-                                            Used to access service data in web applications, mobile apps and other external devices to build web services.
+*Web API(Application programming Interface)- It is set of rules, it define how apps or devices can connect & communicate with each other.
+                                            HttpResponseMessage(for return data)
+                                            Used to access service data in web apps, mobile apps and other external devices to build web services.
                                             Used to create RESTful(Representational State Transfer) web services, which is an architectural style for networked hypermedia applications.
-                                            Lightweight, maintainable, and scalable, and support limited bandwidth.
+                                            Lightweight, Maintainable, Scalable, and support limited Bandwidth.
                                             Create simple HTTP web Service & supports XML, JSON, etc..
-
-
+*CORS(Cross Origin Resource Sharing)- is W3C standard that allows server to relax same-origin policy. Using CORS, a server can explicitly allow some cross-origin requests while rejecting others. CORS is safer and more flexible
+*Different Verbs- POST(Create data), GET(Retrive or get data), PUT(Update data), and DELETE(Delete data)
+*Consuming API- Creating client which can send requests to the API that you build.
+*Newtonsoft API's- provides classes that are used to implement JSON schema.
 
 
 
