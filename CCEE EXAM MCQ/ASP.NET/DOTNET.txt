@@ -1,3 +1,5 @@
+[Read C# theory & 100 mcqs]
+
 1.
 *.NET- It is a developer platform made up of tools, programming languages, and libraries for building many different types of applications.
 *.NET Framework- .NET Framework is the execution and development environment for .NET applications.
@@ -34,7 +36,7 @@ Access Specifier- public, private, protected, internal
 Method Overloading- Same name with different signature  
 
 
-13-19
+13-19(100 Questions)
 *ASP.NET- It is a server-side technology used for developing dynamic websites and web applications. It is the latest version of Active Server Pages which Microsoft developed for building dynamic applications.
           The first version of ASP.NET was released in 2002. It helps to produce data-driven, interactive web applications on the internet.
 
@@ -78,7 +80,7 @@ Method Overloading- Same name with different signature
 *Localization in MVC: It is the process of adapting software to meet the requirements of local markets and different languages.
 *Deploying: Enabling IIS(Internet Information Services) and required IIS components on Windows 10
 
-21.
+21.(38 Questions)
 *Web API(Application programming Interface)- It is set of rules, it define how apps or devices can connect & communicate with each other.
                                             HttpResponseMessage(for return data)
                                             Used to access service data in web apps, mobile apps and other external devices to build web services.
