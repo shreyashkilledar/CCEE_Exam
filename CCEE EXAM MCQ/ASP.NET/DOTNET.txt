@@ -47,8 +47,8 @@ Method Overloading- Same name with different signature
                                             Create simple HTTP web Service & supports XML, JSON, etc..
 *CORS(Cross Origin Resource Sharing)- is W3C standard that allows server to relax same-origin policy. Using CORS, a server can explicitly allow some cross-origin requests while rejecting others. CORS is safer and more flexible
 *Different Verbs- POST(Create data), GET(Retrive or get data), PUT(Update data), and DELETE(Delete data)
-*Consuming API- Creating client which can send requests to the API that you build.
-*Newtonsoft API's- provides classes that are used to implement JSON schema.
+*Consuming API- Creating client which can send requests to the API that you build, using the HttpClient class
+*Newtonsoft API's-  JSON library for serializing and deserializing JSON data.
 
 
 
