@@ -1,5 +1,11 @@
 [Read C# theory & 100 mcqs]
 
+classes in C#
+1.Abstract Class
+2.Sealed Class
+3.Static 
+4.Partial
+
 1.
 *.NET- It is a developer platform made up of tools, programming languages, and libraries for building many different types of applications.
 *.NET Framework- .NET Framework is the execution and development environment for .NET applications.
