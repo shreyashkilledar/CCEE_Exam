@@ -34,6 +34,25 @@ Access Specifier- public, private, protected, internal
 Method Overloading- Same name with different signature  
 
 
+13-19
+*ASP.NET- It is a server-side technology used for developing dynamic websites and web applications. It is the latest version of Active Server Pages which Microsoft developed for building dynamic applications.
+          The first version of ASP.NET was released in 2002. It helps to produce data-driven, interactive web applications on the internet.
+*ASP.NET MVC- ASP.NET MVC is an open-source software used to develop dynamic websites and applications on the .Net framework by combining the features of MVC. MVC is a pattern used to design user interfaces,                   data, and application logic to achieve separation of concerns.It helps applications to reduce their complexity and makes them more accessible in coding, debugging, and testing. ASP.NET MVC was 
+              first released in 2007 by Microsoft with the existing ASP.NET features.
+*MVC- Model View Controller
+ Model- It represents the shape of the data. It also stores data and its related logic. Model is also responsible for the response to the request from the view and controller and updates itself. 
+ View- It is a user interface, which displays model data to the user and enables them to modify it. It also represents the present data in the form of charts, diagrams, and tables.
+ Controller- It is a part of the application which handles the user's request and user interaction. The controller transfers a command to the model to update itself. It also manages the HTTP requests raised by 
+             the user and view.
+ STEPS- User makes request in view-> request from view goes to controller-> then goes to nodel-> model checks request-> page will generate results-> It will unload that result in view engine    
+ Advantages: easy to implement applications.
+             easy to support new users.
+             It provides separation of concerns which helps applications run efficiently.
+             MVC provides separate testing for classes and objects
+             avoid complexity 
+             support for test-driven development for the applications
+
+
 20.
 *Localization in MVC: It is the process of adapting software to meet the requirements of local markets and different languages.
 *Deploying: Enabling IIS(Internet Information Services) and required IIS components on Windows 10
