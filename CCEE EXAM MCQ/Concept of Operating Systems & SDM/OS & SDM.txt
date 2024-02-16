@@ -222,6 +222,9 @@ Software Product: The end result of the software development process that satisf
 SDLC: framework for managing software development projects(Planning- survey in market, Design-create user interface, coding- writing code, testing, deployment.)
 Requirements: Functional, Non-Functional, (Modularity and reusability for good design)
                                           (Complexity and redundancy for Poor Design)
+Design & Architecture: Modularity: Breaking the software product into small, independent, and manageable components.
+                       Cohesion: Elements close to each other
+
 
 
 
