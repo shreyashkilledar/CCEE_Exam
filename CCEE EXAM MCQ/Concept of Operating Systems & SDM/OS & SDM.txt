@@ -230,8 +230,12 @@ Design Model: A diagram or representation that helps visualize the design of the
 Programming Principle: KISS-Keep It Simple-Stupid (breaking down a complex problem into smaller, manageable tasks)
                        DRY-Don't Repeat Yourself (avoid duplication)
                        SRP-Single Responsibility Principle (class or module has a single responsibility)
-
 OOAD- Object Oriented Analysing & Design
+
+5,6
+Agile(2000): Incremental and iterative development and promotes Embracing changes and welcoming customer feedback(Frameworks-> Scrum, Kanban, XP-Extreme Programming)(Tools-> Jira, Trello, GitHub)
+
+
 
 
 
