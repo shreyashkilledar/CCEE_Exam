@@ -1,10 +1,20 @@
 [Read C# theory & 100 mcqs]
 
-classes in C#
+classes in C#= [4]
 1.Abstract Class
 2.Sealed Class
 3.Static 
 4.Partial
+
+Contracts in .NET
+1.Service
+2.Message
+3.Fault
+4.Operation 
+5.Data
+
+GAC= Shared Assemblies
+CLR= Managed Code
 
 1.
 *.NET- It is a developer platform made up of tools, programming languages, and libraries for building many different types of applications.
