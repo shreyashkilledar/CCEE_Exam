@@ -225,6 +225,12 @@ Requirements: Functional, Non-Functional, (Modularity and reusability for good d
 Design & Architecture: Modularity: Breaking the software product into small, independent, and manageable components.
                        Cohesion: Elements close to each other
                        Coupling: A measure of the degree of interaction between software components
+                       Layering: hierarchical layers.
+Design Model: A diagram or representation that helps visualize the design of the software product(Flowchart)
+Programming Principle: KISS-Keep It Simple- Stupid(breaking down a complex problem into smaller, manageable tasks)
+                       DRY(Don't Repeat Yourself- (avoid duplication)
+                       SRP(Single Responsibility Principle)
+
 
 
 
