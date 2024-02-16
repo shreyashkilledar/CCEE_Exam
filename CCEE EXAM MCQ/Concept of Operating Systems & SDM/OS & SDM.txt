@@ -224,6 +224,7 @@ Requirements: Functional, Non-Functional, (Modularity and reusability for good d
                                           (Complexity and redundancy for Poor Design)
 Design & Architecture: Modularity: Breaking the software product into small, independent, and manageable components.
                        Cohesion: Elements close to each other
+                       Coupling: A measure of the degree of interaction between software components
 
 
 
