@@ -46,39 +46,6 @@
 *Page Replacement algorithm: FIFO, LRU(Least Recentely used), MRU(Most Recentely Used)
 
 
-
-
-
-
-
-
-
-         
-           
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 A) Operating System Topics
   1. Introduction to OS
   2. Introduction to Linux
@@ -239,6 +206,13 @@ Git:
                       -It stores the complete history of changes to the code.
 6.".git" folder purpose: To store metadata and configuration files for the repository.
 7. It creates a commit object that represents the change and adds it to the repository's history.
+
+####-SDM
+1.
+*code version control(source control): It is the practice of tracking and managing changes to software code.(Git-distributed, Subversion(SVN)- ease of use and integration with the Windows 
+operating system and uses client-server architecture, Mercurial- written in Python and is designed to be lightweight and fast, CVS, AWS)
+*Software Development Workflow-(Agile- Continuous feedback and adaptation, Scrum- Incremental development and frequent releases, Kanban)
+
                         
 
 
