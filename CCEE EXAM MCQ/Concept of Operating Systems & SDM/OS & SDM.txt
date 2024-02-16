@@ -217,7 +217,7 @@ operating system and uses client-server architecture, Mercurial- written in Pyth
 2.
 Software Engineering: The application of engineering principles to build software products, to produce high-quality software, 
 Software Process: The step-by-step plan for building software products
-Software Process Model: Waterfall model, V model, Incremental model, RAD model, Agile model, Iterative model, Spiral model, Prototype model
+Software Process Model: Waterfall, V, Incremental, RAD(Rapid Application Development), Agile, Iterative, Spiral, Prototype
 Software Product: The end result of the software development process that satisfies user needs
 
 
