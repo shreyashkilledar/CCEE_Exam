@@ -212,9 +212,9 @@ Git:
 *code version control(source control): It is the practice of tracking and managing changes to software code.(Git-distributed, Subversion(SVN)- ease of use and integration with the Windows 
 operating system and uses client-server architecture, Mercurial- written in Python and is designed to be lightweight and fast, CVS, AWS)
 *Software Development Workflow-(Agile- Continuous feedback and adaptation, Scrum- Incremental development and frequent releases, Kanban)
-*Git(Linus Torvalds): Version Control System used to track changes in code files(git init- new repository, git add- add changes)
+*Git(Linus Torvalds in 2005): Version Control System used to track changes in code files(git init- new repository, git add- add changes)
 
-2.
+2,3,4
 Software Engineering: The application of engineering principles to build software products, to produce high-quality software, 
 Software Process: The step-by-step plan for building software products(Planning, Execution, and Maintenance)
 Software Process Model: Waterfall- It provides a clear and structured approach, V, Incremental, RAD(Rapid Application Development), Agile, Iterative, Spiral, Prototype
@@ -227,9 +227,12 @@ Design & Architecture: Modularity: Breaking the software product into small, ind
                        Coupling: A measure of the degree of interaction between software components
                        Layering: hierarchical layers.
 Design Model: A diagram or representation that helps visualize the design of the software product(Flowchart)
-Programming Principle: KISS-Keep It Simple- Stupid(breaking down a complex problem into smaller, manageable tasks)
-                       DRY(Don't Repeat Yourself- (avoid duplication)
-                       SRP(Single Responsibility Principle)
+Programming Principle: KISS-Keep It Simple-Stupid (breaking down a complex problem into smaller, manageable tasks)
+                       DRY-Don't Repeat Yourself (avoid duplication)
+                       SRP-Single Responsibility Principle (class or module has a single responsibility)
+
+OOAD- Object Oriented Analysing & Design
+
 
 
 
