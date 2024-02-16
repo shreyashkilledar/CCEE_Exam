@@ -208,13 +208,13 @@ Git:
 7. It creates a commit object that represents the change and adds it to the repository's history.
 
 ####-SDM
-1.
+1.[Git]
 *code version control(source control): It is the practice of tracking and managing changes to software code.(Git-distributed, Subversion(SVN)- ease of use and integration with the Windows 
 operating system and uses client-server architecture, Mercurial- written in Python and is designed to be lightweight and fast, CVS, AWS)
 *Software Development Workflow-(Agile- Continuous feedback and adaptation, Scrum- Incremental development and frequent releases, Kanban)
 *Git(Linus Torvalds in 2005): Version Control System used to track changes in code files(git init- new repository, git add- add changes)
 
-2,3,4
+2,3,4 [Software Engineering]
 Software Engineering: The application of engineering principles to build software products, to produce high-quality software, 
 Software Process: The step-by-step plan for building software products(Planning, Execution, and Maintenance)
 Software Process Model: Waterfall- It provides a clear and structured approach, V, Incremental, RAD(Rapid Application Development), Agile, Iterative, Spiral, Prototype
@@ -232,12 +232,12 @@ Programming Principle: KISS-Keep It Simple-Stupid (breaking down a complex probl
                        SRP-Single Responsibility Principle (class or module has a single responsibility)
 OOAD- Object Oriented Analysing & Design
 
-5,6
+5,6 
 Agile(2000): Incremental and iterative development and promotes Embracing changes and welcoming customer feedback(Frameworks-> Scrum, Kanban, XP-Extreme Programming)(Tools-> Jira, 
              Trello(boards and cards), GitHub)
-Atlassian JIRA: Tracking and managing project progress and tasks, (to create User stories, tasks, and sub-tasks)
+Atlassian JIRA: Tracking and managing project progress and tasks, (to create User stories, tasks, and sub-tasks)(Templates-> Agile, Scrum, Kanban, and Waterfall)
 
-
+7,8 [DevOps]
 
 
 
