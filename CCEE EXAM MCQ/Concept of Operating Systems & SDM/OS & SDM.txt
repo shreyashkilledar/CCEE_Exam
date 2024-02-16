@@ -219,7 +219,10 @@ Software Engineering: The application of engineering principles to build softwar
 Software Process: The step-by-step plan for building software products(Planning, Execution, and Maintenance)
 Software Process Model: Waterfall- It provides a clear and structured approach, V, Incremental, RAD(Rapid Application Development), Agile, Iterative, Spiral, Prototype
 Software Product: The end result of the software development process that satisfies user needs
-SDLC: framework for managing software development projects(Planning->Analyzing->Design->Implementation->Testing/Integration->Maintenance)
+SDLC: framework for managing software development projects(Planning- survey in market, Design-create user interface, coding- writing code, testing, deployment.)
+Requirements: Functional, Non-Functional, (Modularity and reusability for good design)
+                                          (Complexity and redundancy for Poor Design)
+
 
 
 
