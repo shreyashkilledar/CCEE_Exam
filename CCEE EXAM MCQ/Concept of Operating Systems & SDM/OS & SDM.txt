@@ -233,8 +233,9 @@ Programming Principle: KISS-Keep It Simple-Stupid (breaking down a complex probl
 OOAD- Object Oriented Analysing & Design
 
 5,6
-Agile(2000): Incremental and iterative development and promotes Embracing changes and welcoming customer feedback(Frameworks-> Scrum, Kanban, XP-Extreme Programming)(Tools-> Jira, Trello, GitHub)
-
+Agile(2000): Incremental and iterative development and promotes Embracing changes and welcoming customer feedback(Frameworks-> Scrum, Kanban, XP-Extreme Programming)(Tools-> Jira, 
+             Trello(boards and cards), GitHub)
+Atlassian JIRA: Tracking and managing project progress and tasks, (to create User stories, tasks, and sub-tasks)
 
 
 
